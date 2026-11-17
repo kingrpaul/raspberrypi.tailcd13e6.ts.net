@@ -15,9 +15,6 @@ from xml.sax.saxutils import escape as xml_escape
 
 # INPUT TEXT
 
-title = "Leet Lite"
-text = "That the rules of grammar are old is reflected in their disregard for character count."
-
 # title = "Ratchet"
 # text = "As any gain will be entrenched as birthright, any loss renegotiated as grievance; assembling true compromise becomes impossible. Few attempt to."
 
