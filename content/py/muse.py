@@ -15,11 +15,11 @@ from xml.sax.saxutils import escape as xml_escape
 
 # INPUT TEXT
 
-# title = "Ratchet"
-# text = "As any gain will be entrenched as birthright, any loss renegotiated as grievance; assembling true compromise becomes impossible. Few attempt to."
-
 # title = "Effect"
 # text = "Coaching by Mistral AI has made me a better writer; of this I am confident, though only Dunning and Kruger could be sure."
+
+title = "Ratchet"
+text = "As any gain will be entrenched as birthright, any loss renegotiated as grievance; assembling true compromise becomes impossible. Few attempt to."
 
 # title = ""
 # text = ""
