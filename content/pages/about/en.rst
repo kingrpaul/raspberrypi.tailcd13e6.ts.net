@@ -20,31 +20,43 @@ hello
    :alt: Profile Photo
    :class: profile-image
 
-**about me**
+about me
+========
 
-   |page| `CV <cv.html>`_ |br| 
+|page| `CV <cv.html>`_ |br| 
 
-**find me**
+find me
+=======
 
-   |github| `Github <https://www.github.com/kingrpaul>`_ |br| |br| 
-   |orcid| `Orcid <https://orcid.org/my-orcid?orcid=0000-0001-6748-4538>`_ |br| |br| 
-   |dp| `Distributed Proofreaders <https://www.pgdp.net/c/stats/members/mdetail.php?id=181005>`_ |br| |br| 
-   |wp| `Wikipedia <https://en.wikipedia.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
-   |wiktionary| `Wiktionary <https://en.wiktionary.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
-   |ws| `Wikisource <https://en.wikisource.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
-   |wm| `Wikimedia Commons <hhttps://commons.wikimedia.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
-   |ia| `Internet Archive <https://archive.org/details/@pairko>`_ |br| |br| 
-   |safecast| `Safecast <https://api.safecast.org/en-US/users/1108>`_ |br| |br| 
-   |mastodon| `Mastodon <https://bookstodon.com/@Pairko>`_
+|github| `Github <https://www.github.com/kingrpaul>`_ |br| |br| 
+|orcid| `Orcid <https://orcid.org/my-orcid?orcid=0000-0001-6748-4538>`_ |br| |br| 
+|dp| `Distributed Proofreaders <https://www.pgdp.net/c/stats/members/mdetail.php?id=181005>`_ |br| |br| 
+|wp| `Wikipedia <https://en.wikipedia.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
+|wiktionary| `Wiktionary <https://en.wiktionary.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
+|ws| `Wikisource <https://en.wikisource.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
+|wm| `Wikimedia Commons <hhttps://commons.wikimedia.org/wiki/Special:Contributions/Pairko>`_ |br| |br| 
+|ia| `Internet Archive <https://archive.org/details/@pairko>`_ |br| |br| 
+|safecast| `Safecast <https://api.safecast.org/en-US/users/1108>`_ |br| |br| 
 
-**about site**
+fediverse
+=========
 
-   neo-retro
-   `self-hosted <https://en.wiktionary.org/wiki/self-host>`_ |br| 
-   `non-monetized <https://en.wiktionary.org/wiki/monetize>`_ |br| 
-   `posse <https://indieweb.org/POSSE>`_, what happens here, doesn't stay here |br| 
-   `CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_, except as indicated |br| 
+|mastodon| `Mastodon.Social <https://mastodon.social/@pairko>`_ |br| |br| 
+|mastodon| `Bookstodon <https://bookstodon.com/@Pairko>`_  Zombie Account 🧟‍♀️ |br| |br| 
+📚 `BookWyrm  <https://books.theunseen.city/user/oncobot>`_ |br| |br| 
+🌉 `Bridgy Fed <https://fed.brid.gy/web/raspberrypi.tailcd13e6.ts.net>`_ |br| |br| 
+🌉 `Bridgy Fed on Bluesky <https://bsky.app/profile/raspberrypi.tailcd13e6.ts.net.web.brid.gy>`_ |br| |br| 
+🌉 `Bridgy Fed on Mastodon.Social <https://mastodon.social/@raspberrypi.tailcd13e6.ts.net@web.brid.gy>`_ |br| |br| 
+
+about site
+==========
+
+`self-hosted <https://en.wiktionary.org/wiki/self-host>`_ |br| |br| 
+`non-monetized <https://en.wiktionary.org/wiki/monetize>`_ |br| |br| 
+`posse <https://indieweb.org/POSSE>`_, what happens here, doesn't stay here |br| |br| 
+`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_, except as indicated
 
 ..
+   .. neo-retro
    in the spirit of `indieweb <https://indieweb.org/>`_ |br| 
    in the spirit of `smolweb <https://smolweb.org/>`_ |br| 
