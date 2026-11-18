@@ -234,3 +234,14 @@
 
    <svg class="icon" style="height:0.8em" aria-hidden="true"><use href="/icons/icons.svg#xoft"/></svg>
 
+.. |bluesky| raw:: html
+
+   <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#bluesky"/></svg>
+
+.. |twitter| raw:: html
+
+   <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#twitter"/></svg>
+
+.. |facebook| raw:: html
+
+   <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#facebook"/></svg>

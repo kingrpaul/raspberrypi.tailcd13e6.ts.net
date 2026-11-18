@@ -128,3 +128,9 @@ Icons
 |usm|
 
 |xoft|
+
+|bluesky|
+
+|twitter|
+
+|facebook|

@@ -46,11 +46,8 @@ AI
    :alt: 🤗
    :target: https://huggingface.co/
 
-----
-
 Esperanto
 ^^^^^^^^^^
-
 
 |eo-maine| `English-Esperanto Annotated Dictionary <https://esperanto-me.org/dic/index.php?>`_
 
@@ -73,55 +70,6 @@ Esperanto
    :height: 1.5em
    :alt: G
    :target: https://glosbe.com/en/eo/
-
-----
-
-Books
-^^^^^
-
-|hardcover| `Hardcover <https://hardcover.app/@Oncobot>`_
-
-.. |hardcover| image:: https://cdn.jsdelivr.net/gh/selfhst/icons/png/hardcover.png
-   :height: 1.5em
-   :alt: 🕮
-   :target: https://hardcover.app/@Oncobot
-
-|goodreads| `Goodreads <https://www.goodreads.com/user/show/121006579-aery-inking>`_
-
-|unseen-city| `The Unseen City <https://books.theunseen.city/user/oncobot>`_
-
-.. |unseen-city| image:: https://books.theunseen.city/static/images/logo-small.02a3cc6fe0fd.png
-   :height: 1.5em
-   :alt: 🕮
-   :target: https://books.theunseen.city/user/oncobot
-
-----
-
-Social
-^^^^^^^^
-
-|bluesky| `Bluesky <https://bsky.app/profile/pairko.bsky.social>`_
-
-.. |bluesky| image:: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/330px-Bluesky_Logo.svg.png
-   :height: 1.5em
-   :alt: 🦋
-   :target: https://bsky.app/profile/pairko.bsky.social
-
-|twitter| `Twitter <https://x.com/pairko49393>`_
-
-.. |twitter| image:: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/330px-Logo_of_Twitter.svg.png
-   :height: 1.5em
-   :alt: 𝕏
-   :target: https://x.com/pairko49393
-
-|facebook| `Facebook <https://www.facebook.com/paul.king.3597/>`_
-
-.. |facebook| image:: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/250px-Facebook-icon-1.png
-   :height: 1.5em
-   :alt: 🙍‍♂️
-   :target: https://www.facebook.com/paul.king.3597/
-
-----
 
 Pi Site
 ^^^^^^^^
@@ -160,10 +108,6 @@ Pi Site
    :height: 1.5em
    :alt: 🐈←
    :target: https://console.tailscale.com/admin/machines?refreshed=true
-
-----
-
-|github| `Github <https://github.com/kingrpaul/>`_
 
 |social-share-preview| `Social Share Preview <https://socialsharepreview.com/>`_
 
