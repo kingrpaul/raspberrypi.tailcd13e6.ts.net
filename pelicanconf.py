@@ -108,7 +108,7 @@ DEFAULT_METADATA = {
 
 SOCIAL = (
     ("github", "https://github.com/kingrpaul"),
-    ("mastodon", "https://bookstodon.com/@Pairko"),
+    ("mastodon", "https://mastodon.social/@pairko"),
     ("telegram", "https://web.telegram.org/k/#@pairko_en"),
     ("discord", "https://discord.com/channels/@oncobot"),
     ("orcid", "https://orcid.org/my-orcid?orcid=0000-0001-6748-4538"),

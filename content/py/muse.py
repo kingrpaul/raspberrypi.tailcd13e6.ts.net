@@ -15,16 +15,19 @@ from xml.sax.saxutils import escape as xml_escape
 
 # INPUT TEXT
 
-# title = "Effect"
-# text = "Coaching by Mistral AI has made me a better writer; of this I am confident, though only Dunning and Kruger could be sure."
+# alt-en = 'A retro‑style red poster showing a stylized illustration of a woman with dark hair holding a steaming cup of coffee, with the word “Coffee!” in large script at the top and the slogan “You can sleep when you’re dead!” written below.'
+# alt-eo = 'Ruĝa retrostila afiŝo, prezentanta stiligitan ilustraĵon de virino kun malhelaj haroj, kiu tenas vaporantan tason da kafo; supre troviĝas la vorto “Coffee!” [Kafo!] en grandaj kursivaj literoj, kaj sube estas skribita la slogano: “You can sleep when you’re dead!” [Vi povos dormi, kiam vi estos morta!]'
+# title-en = 'Coffee'
+# text-en = 'Chicory coffee black as a traitor's heart that rests unmoved as cream pours in, only whispering "More".'
+# title-eo = 'Kafo'
+# text-eo = 'Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".'
 
-title = "Ratchet"
-text = "As any gain will be entrenched as birthright, any loss renegotiated as grievance; assembling true compromise becomes impossible. Few attempt to."
+# title = 'Coffee'
+# text = f'Chicory coffee black as a traitor\'s heart that rests unmoved as cream pours in, only whispering "More".'
+title = 'Kafo'
+text = 'Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".'
 
-# title = ""
-# text = ""
-# title = ""
-# text = ""
+
 
 # --- card geometry ---
 CARD_W, CARD_H = 1200, 675

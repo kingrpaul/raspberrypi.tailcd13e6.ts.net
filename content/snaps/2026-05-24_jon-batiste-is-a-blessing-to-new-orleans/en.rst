@@ -7,7 +7,7 @@ Jon Batiste is a Blessing to New Orleans
 :category: snap
 :summary: Jon Batiste is a blessing to New Orleans (Piano up in here)
 :description: Message in church window: Jon Batiste is a blessing to New Orleans (Piano up in here)
-:tags: snap
+:tags: 
 :slug: 2026-05-24_jon-batiste-is-a-blessing-to-new-orleans
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-05-24_jon-batiste-is-a-blessing-to-new-orleans/social.jpg
