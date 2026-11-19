@@ -24,8 +24,9 @@ from xml.sax.saxutils import escape as xml_escape
 
 # title = 'Coffee'
 # text = f'Chicory coffee black as a traitor\'s heart that rests unmoved as cream pours in, only whispering "More".'
-title = 'Kafo'
-text = 'Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".'
+# musing
+title = '''Visible Hand'''
+text = '''If fixing problems were as rewarding as fixing prices, lower prices and fewer problems would be among the resulting rewards.'''
 
 
 
