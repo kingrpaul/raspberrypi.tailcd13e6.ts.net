@@ -56,8 +56,8 @@ read
 ====
 
 |goodreads| `Goodreads <https://www.goodreads.com/user/show/121006579-aery-inking>`_ |br| |br| 
-📘 `Hardcover <https://hardcover.app/@Oncobot>`_ |br| |br| 
-🐉 `Bookwyrm - The Unseen City <https://books.theunseen.city/user/oncobot>`_
+|hardcover| `Hardcover <https://hardcover.app/@Oncobot>`_ |br| |br| 
+|bookwyrm| `Bookwyrm - The Unseen City <https://books.theunseen.city/user/oncobot>`_
 
 social
 ======

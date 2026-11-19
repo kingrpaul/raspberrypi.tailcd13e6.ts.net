@@ -245,3 +245,11 @@
 .. |facebook| raw:: html
 
    <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#facebook"/></svg>
+
+.. |hardcover| raw:: html
+
+   <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#hardcover"/></svg>
+
+.. |bookwyrm| raw:: html
+
+   <svg class="icon" style="" aria-hidden="true"><use href="/icons/icons.svg#bookwyrm"/></svg>

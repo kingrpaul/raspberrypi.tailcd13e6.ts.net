@@ -134,3 +134,8 @@ Icons
 |twitter|
 
 |facebook|
+
+|hardcover|
+
+|bookwyrm|
+
