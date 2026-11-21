@@ -12,6 +12,8 @@ No Bullshit Guide to Linear Algebra, Savov (2017)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/savov-ivan/no-bullshit-guide-to-linear-algebra/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/savov-ivan/no-bullshit-guide-to-linear-algebra/cover.jpg
    :alt: Book cover containing three orthogonal vectors. 
    :width: 10em
@@ -29,3 +31,7 @@ I must admit that, in these final chapters, the author sometimes allows himself 
 If there were to ever be a third edition, any revision should certainly proceed from back to front. There are elements early in the book that should be trapped in amber and preserved for eternity, just as they are. But, as for the last section? If the applications section were expanded, perhaps tripled, so as to provide for longer explanations, I’m not sure it would still be a linear algebra book. The applications section already runs long, relative to the central part of the book. Likewise, removing any of this in the interest of brevity would be a tragedy. So, it is as it is meant to be.
 
 I hope there are more works forthcoming from `Ivan Savov <https://minireference.com/>`_.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7849059435>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/no-bullshit-guide-to-linear-algebra>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/539569/s/no-bullshit-guide-to-linear-algebra>`_ |br|

@@ -6,7 +6,7 @@ The Elements of Style, Strunk (1920)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
+:description: 📘
 :tags: quote
 :slug: strunk_the-elements-of-style
 :lang: en

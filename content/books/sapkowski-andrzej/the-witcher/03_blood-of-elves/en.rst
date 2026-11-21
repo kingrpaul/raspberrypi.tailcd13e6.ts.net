@@ -6,8 +6,8 @@ The Witcher 3, Blood of Elves, Sapkowski (1994)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: 📘
+:tags: 
 :slug: sapkowski_blood-of-elves
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/03_blood-of-elves/social.jpg
@@ -15,4 +15,3 @@ The Witcher 3, Blood of Elves, Sapkowski (1994)
 .. image:: /books/sapkowski-andrzej/the-witcher/03_blood-of-elves/cover.jpg
    :width: 8em
    :alt: book cover
-

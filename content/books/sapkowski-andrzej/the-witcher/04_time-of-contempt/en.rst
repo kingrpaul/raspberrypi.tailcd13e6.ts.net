@@ -6,8 +6,8 @@ The Witcher 4, Time of Contempt, Sapkowski (1995)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: 📘
+:tags: quote
 :slug: sapkowski_time-of-contempt
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/04_time-of-contempt/social.jpg

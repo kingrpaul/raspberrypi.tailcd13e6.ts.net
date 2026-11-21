@@ -12,6 +12,8 @@ Pattern Design, Day (1903)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/day-lewis/pattern-design/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/day-lewis/pattern-design/cover.jpg
    :alt: book cover
    :width: 11em
@@ -43,3 +45,7 @@ Quotes
    for or against the version (or perversion) of the fact which we call imagination.”
    — `Pattern Design <https://archive.org/details/patterndesignboo00daylrich/>`_, 
    Design p-261, Lewis Foreman Day (1903) 
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8214470436>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/pattern-design-1903>`_ |br|
+🚫 Bookwyrm |br|

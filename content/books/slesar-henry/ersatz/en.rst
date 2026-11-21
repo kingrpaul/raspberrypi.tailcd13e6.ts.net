@@ -18,8 +18,6 @@ Ersatz, Slesar (1967)
    :width: 15em
    :alt: illustration
 
-|goodreads| `At Goodreads <https://www.goodreads.com/book/show/39083039-ersatz>`_ |br|
-
 Though I was born before this story was written and am not overly prone to 
 expressions of moral outrage⁠—⁠even so, it was a little jarring.
 The past is a different country, where their concerns and indifferences 
@@ -54,3 +52,6 @@ And this author wants to make clear that it would be an
 `ersatz <https://en.wiktionary.org/wiki/ersatz>`_
 reality, a poor substitute for what was lost.
 
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8426631361>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/ersatz>`_ |br|
+🚫 Bookwyrm |br|

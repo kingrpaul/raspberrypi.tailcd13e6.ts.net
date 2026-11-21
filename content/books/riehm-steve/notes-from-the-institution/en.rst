@@ -7,7 +7,7 @@ Notes from the Institution, Riehm (1987)
 :category: book
 :summary: Comic strip from The Independent Florida Alligator.
 :description: Comic strip from The Independent Florida Alligator.
-:tags: scan, review, pub:internet-archive, format:pdf
+:tags: scan, pub:internet-archive, format:pdf
 :slug: riehm_notes-from-the-institution
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/riehm-steve/notes-from-the-institution/social.jpg

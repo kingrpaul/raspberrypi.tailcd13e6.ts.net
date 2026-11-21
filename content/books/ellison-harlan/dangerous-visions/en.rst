@@ -12,6 +12,8 @@ Dangerous Visions, Ellison (1967)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/ellison-harlan/dangerous-visions/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/ellison-harlan/dangerous-visions/cover.jpg
    :alt: Book cover containing three orthogonal vectors. 
    :width: 10em
@@ -35,3 +37,7 @@ In some cases, the foreword is nearly as long as the story it introduces and thi
 It would be poor form for an anthologist to out-shine his invited authors. Ellison’s fiction didn’t do this. But if he had, I don’t imagine it would have bothered him. It’s my impression that spending time with this author would be less pleasant than reading his work. I suppose it’s only in the exceptional case that one would like both the bacon and the pig. The author himself advises against meeting writers whose work you admire. He does this using vivid insults which I assume didn’t apply to any of the other authors in this book. Or, at least I hope they didn’t.
 
 As for whether this book and its vision are, for the present-day reader, dangerous; I would compare it to the Tyrannosaurus Rex in a natural history museum. It is significant. It is certainly interesting to look at. You can envision it giving quite a fright to the older and smaller reptiles on the primeval savanna. But, you yourself are probably in no real danger.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7863115652>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/dangerous-visions>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/476950/s/dangerous-visions>`_ |br|

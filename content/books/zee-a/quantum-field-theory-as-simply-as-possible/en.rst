@@ -12,6 +12,8 @@ Quantum Field Theory, As Simply as Possible, Zee (2023)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/zee-a/quantum-field-theory-as-simply-as-possible/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/zee-a/quantum-field-theory-as-simply-as-possible/cover.jpg
    :alt: book cover
    :width: 10em
@@ -61,3 +63,7 @@ Reading the next book from this author, I will probably skip over any notes and 
 Quibble concluded. 
 
 I wonder which book that should be?
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8723016176>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/quantum-field-theory-as-simply-as-possible>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/544971/s/quantum-field-theory-as-simply-as-possible>`_ |br|

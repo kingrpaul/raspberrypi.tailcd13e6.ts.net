@@ -6,7 +6,7 @@ Quantum Mechanics and Experience, Albert (1992)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
+:description: 📘
 :tags: quote
 :slug: albert_quantum-mechanics-and-experience
 :lang: en

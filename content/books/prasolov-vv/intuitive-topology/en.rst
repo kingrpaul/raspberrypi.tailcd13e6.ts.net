@@ -12,8 +12,14 @@ Intuitive Topology, Prasolov (1995)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/prasolov-vv/intuitive-topology/social.jpg
 
-.. image:: /books/prasolov/intuitive-topology/cover.jpg
+.. include:: ../../../extra/snippets.inc
+
+.. image:: /books/prasolov-vv/intuitive-topology/cover.jpg
    :alt: book cover
    :width: 10em
 
 The meaning of *intuitive* would seem to be subjective.
+
+🚫 Goodreads |br|
+|hardcover| `Hardcover <https://hardcover.app/books/intuitive-topology-translated-from-the-russian-by-a-sossins>`_ |br|
+🚫 Bookwyrm |br|

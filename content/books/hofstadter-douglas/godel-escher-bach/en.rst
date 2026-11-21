@@ -12,6 +12,8 @@ Gödel, Escher, Bach: an Eternal Golden Braid, Hofstadter (1979)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/hofstadter-douglas/godel-escher-bach/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/hofstadter-douglas/godel-escher-bach/cover.jpg
    :alt: book cover
    :width: 11em
@@ -28,4 +30,6 @@ As a student, I learned what is now affectionately called “Old AI” from the 
 
 Brace yourself. But this book is well worth reading for anyone bold enough to stand before the firehose.
 
-
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7677786308>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/godel-escher-bach>`_ |br|
+🚫 Bookwyrm |br|

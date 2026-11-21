@@ -6,13 +6,11 @@ La Wiĉer 2, Glavo de Sorto, Sapkowski (1992)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: sapkowski_sword-of-destiny
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/02_sword-of-destiny/social.jpg
-
-
 
 .. image:: /books/sapkowski-andrzej/the-witcher/02_sword-of-destiny/cover.jpg
    :width: 8em

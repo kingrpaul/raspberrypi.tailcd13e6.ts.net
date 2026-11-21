@@ -18,6 +18,10 @@ The Cats of Ulthar, Lovecraft (1920)
    :width: 12em
    :alt: page scan
 
+This parable on the nature of Law would make a fine preface to any text on the subject.
+
 |ws| `"The Cats of Ulthar" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/Weird_Tales/Volume_7/Issue_2/The_Cats_of_Ulthar>`_
 
-This parable on the nature of Law would make a fine preface to any text on the subject.
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7864717603>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/the-cats-of-ulthar>`_ |br|
+🚫 Bookwyrm |br|

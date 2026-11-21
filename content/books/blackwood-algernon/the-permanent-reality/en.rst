@@ -7,7 +7,7 @@ The Permanent Reality, Blackwood (1915)
 :category: book
 :summary:
 :description:
-:tags: review, transcription, auth:blackwood, format:pdf, pub:internet-archive
+:tags: transcription, auth:blackwood, format:pdf, pub:internet-archive
 :slug: blackwood_the-permanent-reality
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/the-permanent-reality/social.jpg

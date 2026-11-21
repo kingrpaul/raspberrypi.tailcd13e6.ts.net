@@ -46,3 +46,7 @@ The story is unusual, but engaging, and well worth reading.
 .. image:: /books/blackwood-algernon/avatar.png
    :width: 3em
    :alt: Algernon Blackwood
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8073702567>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/dudley-and-gilderoy>`_ |br|
+🚫 Bookwyrm |br|

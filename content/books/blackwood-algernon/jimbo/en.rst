@@ -48,3 +48,7 @@ But there is also a writing technique that is specific to this author: his disti
 .. image:: /books/blackwood-algernon/avatar.png
    :width: 3em
    :alt: Algernon Blackwood
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8092204832>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/jimbo>`_ |br|
+🚫 Bookwyrm |br|

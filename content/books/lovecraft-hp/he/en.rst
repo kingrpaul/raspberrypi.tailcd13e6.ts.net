@@ -18,8 +18,6 @@ He, Lovecraft (1926)
    :width: 12em
    :alt: book cover
 
-|ws| `"He" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/He>`_
-
 Having come to the metropolis to find inspiration, the narrator instead finds disappointment and declares the city dead.
 He feels no kinship with its denizens.
 Between the populace and the city they inhabit, he senses only the same kinship as exists between a hermit crab and the dead creature, in whose shell it makes its home.
@@ -27,3 +25,9 @@ By a revenant embodiment of the old city, he is shown that its past and future a
 
 In reading this story, the post-postmodern reader may feel an impulse to respond to the author’s sense of alienation from his environment and its inhabitants by naming him misanthrope—or worse—and take this judgment of misanthropy away as the story’s chief significance.
 Like returning from the grocery store with the latest issue of the *National Enquirer*, but having left all the groceries on the shelves, this is perhaps a mistake.
+
+|ws| `"He" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/He>`_
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7817206157>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/he>`_ |br|
+🚫 Bookwyrm |br|

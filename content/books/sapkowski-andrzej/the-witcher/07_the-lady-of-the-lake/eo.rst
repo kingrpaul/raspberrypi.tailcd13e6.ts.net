@@ -6,13 +6,11 @@ La Wiĉer 7, La Damo de la Lago, Sapkowski (1999)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: sapkowski_the-lady-of-the-lake
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/07_the-lady-of-the-lake/social.jpg
-
-
 
 .. image:: /books/sapkowski-andrzej/the-witcher/07_the-lady-of-the-lake/cover.jpg
    :width: 8em

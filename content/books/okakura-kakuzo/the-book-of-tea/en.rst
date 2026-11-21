@@ -12,6 +12,8 @@ The Book of Tea, Okakura (1906)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/okakura-kakuzo/the-book-of-tea/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/okakura-kakuzo/the-book-of-tea/cover.jpg
    :width: 10em
    :alt: Book cover.
@@ -29,3 +31,7 @@ I cannot with certainty judge whether the author truly understands the
 Eastern world to the depth with which he seems to. However, the
 artistry with which he uses the English language, I can judge,
 and his writing alone makes the reading a pleasure.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/9048841521>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/the-book-of-tea>`_ |br|
+🚫 Bookwyrm |br|

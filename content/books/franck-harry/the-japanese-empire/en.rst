@@ -12,6 +12,8 @@ The Japanese Empire: A Geographical Reader, Franck (1927)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/franck-harry/the-japanese-empire/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/franck-harry/the-japanese-empire/cover.jpg
    :alt: book cover
    :width: 10em
@@ -29,3 +31,7 @@ So, why read this thing?
 For the original childhood reader, the `War in the Pacific <https://en.wikipedia.org/wiki/Pacific_War>`_, America’s war against Japan, will become a central fact in their adult life. The author has no idea of this, though today’s reader can see clues in his text. History always looks different in the rearview mirror than in the windshield. Today’s reader has a century’s worth of spoilers the author did not have. Because of this naïveté, the author writes a book no modern writer possibly could.
 
 He simply does what he does, sees what he sees, and writes it as he sees it. Not all the things he says or does (or writes) are things I would approve of — not that he needs my approval. The writing is simple. But it is interesting: a snapshot of this specific place and time, a view of inter-war history as seen without the intervening lens of `Pearl Harbor <https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor>`_, `Bataan <https://en.wikipedia.org/wiki/Bataan_Death_March>`_, and `Hiroshima <https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki>`_. It is worth reading, not despite its age, but because of it. It may well broaden the modern reader’s horizons, too.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8891770861>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/travel-in-many-lands-the-japanese-empire>`_ |br|
+🚫 Bookwyrm |br|

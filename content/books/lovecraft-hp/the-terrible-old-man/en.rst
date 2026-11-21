@@ -18,6 +18,10 @@ The Terrible Old Man, Lovecraft (1926)
    :width: 12em
    :alt: handwritten text
 
+Dangerous characters dwell in the penumbra, around the edge of civilized society's illumination—and so do some, who merely believe themselves to be.
+
 |ws| `"The Terrible Old Man" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/Weird_Tales/Volume_8/Issue_2/The_Terrible_Old_Man>`_
 
-Dangerous characters dwell in the penumbra, around the edge of civilized society's illumination—and so do some, who merely believe themselves to be.
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7864660779>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/the-terrible-old-man>`_ |br|
+🚫 Bookwyrm |br|

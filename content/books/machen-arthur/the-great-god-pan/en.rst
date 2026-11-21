@@ -18,7 +18,11 @@ The Great God Pan, Machen (1894)
    :alt: The Great God Pan and the Inmost Light.
    :width: 10em
 
+Never look through the veil that divides our reality from the unseen real reality.
+
 |pg| `The Great God Pan <https://www.gutenberg.org/ebooks/389>`_, `Arthur Machen <https://en.wikipedia.org/wiki/Arthur_Machen>`_ (1894) |br|
 |ws| `The Great God Pan <https://en.wikisource.org/wiki/The_Great_God_Pan>`_, `Arthur Machen <https://en.wikipedia.org/wiki/Arthur_Machen>`_ (1894)
 
-Never look through the veil that divides our reality from the unseen real reality.
+🚫 Goodreads |br|
+|hardcover| `Hardcover <https://hardcover.app/books/the-great-god-pan>`_ |br|
+🚫 Bookwyrm |br|

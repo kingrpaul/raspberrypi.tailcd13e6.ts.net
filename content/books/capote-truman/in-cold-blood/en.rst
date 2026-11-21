@@ -1,16 +1,18 @@
 ============================
-In Cold Blook, Capote (1965)
+In Cold Blood, Capote (1965)
 ============================
 :date: 2026-09-24
 :modified: 2026-09-30
 :author: pairko
 :category: book
 :summary: True Crime is, in general, the pig-swill of American popular culture.
-:description: Review, In Cold Blook by Truman Capote
+:description: Review, In Cold Blood by Truman Capote
 :tags: review
 :slug: capote_in-cold-blood
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/capote-truman/in-cold-blood/social.jpg
+
+.. include:: ../../../extra/snippets.inc
 
 .. image:: /books/capote-truman/in-cold-blood/cover.jpg
    :width: 10em
@@ -28,3 +30,9 @@ True crime is, in general, a four-color comic strip that invites the public to b
 `Truman Capote’s <https://en.wikipedia.org/wiki/Truman_Capote>`_ work sits on a shelf titled `New Journalism, <https://en.wikipedia.org/wiki/New_Journalism>`_ among other writers such as `Joan Didion <https://en.wikipedia.org/wiki/Joan_Didion>`_ and `Hunter S. Thompson. <https://en.wikipedia.org/wiki/Hunter_S._Thompson>`_ Such of Didion as I’ve read left me feeling that I knew her. The author was clearly present on the page. Thompson was not so much on the page—as he WAS the page. Capote, we know, is present at the scene. But he writes as if wearing latex gloves, leaving no visible trace of himself for the reader to see.
 
 Ours is an era dominated by the industry of “look at me” influencers and a spirit of “we have nothing to fear but … Everything!” In reading this book today, the author’s effort to bring each of his subjects fully to life while standing silently in the cold shadows is refreshing.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8723030618>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/in-cold-blood>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/71960/s/in-cold-blood-penguin-twentieth-century-classics>`_ |br|
+
+

@@ -6,13 +6,11 @@ La Wiĉer 5, Bapto de Fajro, Sapkowski (1996 )
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: sapkowski_baptism-of-fire
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/05_baptism-of-fire/social.jpg
-
-
 
 .. image:: /books/sapkowski-andrzej/the-witcher/05_baptism-of-fire/cover.jpg
    :width: 8em

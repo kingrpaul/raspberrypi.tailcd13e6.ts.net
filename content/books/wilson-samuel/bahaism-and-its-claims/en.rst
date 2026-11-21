@@ -12,6 +12,8 @@ Bahaism and Its Claims, Wilson (1915)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/wilson-samuel/bahaism-and-its-claims/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/wilson-samuel/bahaism-and-its-claims/cover.jpg
    :width: 15em
    :alt: book title page
@@ -33,5 +35,8 @@ rigorous, but also accessible to the general reader.
 
 In this, the author succeeds.
 
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8175120547>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/bahaism-and-its-claims-a-study-of-the-religion-promulgated-by-baha-ullah-and-abdul-baha>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/544073/s/bahaism-and-its-claims-a-study-of-the-religion-promulgated-by-baha-ullah-and-abdul-baha>`_ |br|
 
 .. `Samuel Graham Wilson <https://digital.history.pcusa.org/islandora/49140?solr_nav%5Bid%5D=68cdbb3a439ba181c802&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0>`

@@ -6,8 +6,8 @@ The Dark Tower 4, Wizard and Glass, King (1997)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: 📘
+:tags: 
 :slug: king_wizard-and-glass
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/4.0_wizard-and-glass/social.jpg

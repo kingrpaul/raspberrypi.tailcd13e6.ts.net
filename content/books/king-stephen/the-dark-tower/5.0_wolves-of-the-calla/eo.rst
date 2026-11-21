@@ -6,13 +6,11 @@ La Malhela Turo 5, Lupoj de la Calla, King (2003)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: king_wolves-of-the-calla
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/5.0_wolves-of-the-calla/social.jpg
-
-
 
 .. image:: /books/king-stephen/the-dark-tower/5.0_wolves-of-the-calla/cover.jpg
    :width: 8em

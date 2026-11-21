@@ -24,16 +24,6 @@ In choosing this book to read, my goal was to practice the language, and this tu
 
 The greatest difficulty arose from the use of unusual words particular to African village life and the use of `Igbo <https://en.wikipedia.org/wiki/Igbo_language>`_ words directly, in cases where these were the most suitable words to use. The appended glossary was useful and these elements of the story should deter no one who, like me, would choose this novel as a companion to their language learning.
 
-..
- |goodreads| `Review <https://www.goodreads.com/review/show/8751386434>`_
-
-..
- |hardcover| `Review <https://hardcover.app/books/aferoj-disfalas>`_
-
-..
- |bookwyrm| `Review <https://books.theunseen.city/book/545459/s/aferoj-disfalas>`_
-
-
-`🔗 <https://www.goodreads.com/review/show/8751386434>`_ |goodreads|
-`🔗 <https://hardcover.app/books/aferoj-disfalas>`_ |hardcover|
-`🔗 <https://books.theunseen.city/book/545459/s/aferoj-disfalas>`_ |bookwyrm|
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8751386434>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/aferoj-disfalas>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/545459/s/aferoj-disfalas>`_ |br|

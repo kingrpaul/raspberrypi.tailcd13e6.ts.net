@@ -87,11 +87,10 @@ def main() -> int:
     valid_tags = {"blackwood", 
                   "auth:lovecraft","auth:blackwood",
                   "format:epub", "format:kobo", "format:pdf",
-                "fiction", "nonfiction", "creative", 
-                "epub", 
+                "fiction", "nonfiction", "creative",  
                 "esperanto", "esperanto-lingva", 
                 "group-photo", "portrait", "snap", 
-                "icon", 
+                "icon",
                 "illustration", 
                 "medical-physics", "how-to", 
                 "politics", 
@@ -100,6 +99,7 @@ def main() -> int:
                 
                 }
     used_tags = set()
+    no_ext_link = {'goodreads': [], 'hardcover': [], 'bookwyrm': []}
 
     for path in rst_paths:
         # page = "/pages/" in str(path)
@@ -279,6 +279,43 @@ def main() -> int:
                 else:
                     return False
 
+            # Book Reviews
+            if category == "book":
+                good_links = True 
+                if "review" in tags:
+
+                    # GOODREADS 
+                    goodreads_pattern = r"\|goodreads\| `Goodreads <https://www\.goodreads\.com/review/show/(\d+)>`\_ \|br\|"
+                    goodreads_link = re.findall(goodreads_pattern, rst_text)
+                    no_goodreads_link = "🚫 Goodreads |br|" in rst_text
+                    if no_goodreads_link: 
+                        no_ext_link["goodreads"].extend([path])
+                    elif not goodreads_link:
+                        good_links = False 
+
+                    # HARDCOVER
+                    hardcover_pattern = r"\|hardcover\| `Hardcover <https://hardcover\.app\/books/(.+)>`\_ \|br\|"
+                    harcover_link = re.findall(hardcover_pattern, rst_text)
+                    no_hardcover_link = "🚫 Hardcover |br|" in rst_text
+                    if no_hardcover_link: 
+                        no_ext_link["hardcover"].extend([path])
+                    elif not harcover_link:
+                        good_links = False 
+
+                    # BOOKWYRM
+                    bookwyrm_pattern = r"\|bookwyrm\| `Bookwyrm <https://books\.theunseen\.city\/book/(.+)>`\_ \|br\|"
+                    bookwyrm_link = re.findall(bookwyrm_pattern, rst_text)
+                    no_bookwyrm_link = "🚫 Bookwyrm |br|" in rst_text
+                    if no_bookwyrm_link: 
+                        no_ext_link["bookwyrm"].extend([path])
+                    elif not bookwyrm_link:
+                        good_links = False 
+            if not good_links:
+                        print(path)
+                        exit()
+            # print(missing_links)
+
+            # Authors
             tag_words = {
                 "lovecraft": ("auth:lovecraft", 
                               ("blackwood.rst", "trainspotting", "quantum-field-theory-as-simply-as-possible", "30-coins", "evil-dead-rise", "2026-08-05_nocturne", "2026-08-05_nocturne")),
@@ -294,17 +331,14 @@ def main() -> int:
                               ("blackwood.rst", "teago-audrey", "beebe-robert", "quantum-field-theory-as-simply-as-possible", "main-generative-ai", "things-do-indeed-bite-back", "the-shared-philosophy-of-the-scientific-revolution",)),
                 "standardebooks": ("pub:standard-ebooks", 
                               ("formatting-a-dual-language-glossary", "wergild")),
-
-
             } # 
-
+            
             for word in tag_words:
                 if word_in_text(word, rst_text):
                     if not in_tags(tag_words[word][0], tags): 
                         if not is_exception(path, tag_words[word][1]):
                             if not working:
                                 print(f"Add {tag_words[word][0]} tag?: {path}")
-
 
         # ---------
 
@@ -314,9 +348,22 @@ def main() -> int:
         #     if not fld_exists(path, name):
         #         print(f"No {name}: {path}")
 
-    
+    # RETURNS THE LINTING RESULTS 
 
-    # print(len(valid_tags - used_tags))
+    # Unused valid post tags
+    if len(valid_tags - used_tags) > 0:
+        print(rf"Unused tags: {[u for u in (valid_tags - used_tags) ]}")
+    
+    # Book Reviews Not Posted to Platforms
+    if False: # COUNT REVIEWS NOT POSTED ON PLATFORMS
+        print(rf"Book reviews not posted ⸺ Goodreads {len(no_ext_link["goodreads"])}, Hardcover {len(no_ext_link["hardcover"])}, Bookwyrm {len(no_ext_link["bookwyrm"])}")
+    if False: # LIST REVIEWS NOT POSTED ON PLATFORMS
+        succinct = lambda loc: str(loc).split('/books/')[-1]
+        print("Reviews not posted externally:")
+        for n in no_ext_link:
+            print(n.capitalize())
+            for p in no_ext_link[n]:
+                print(rf"  {succinct(p)}")
 
     return 0            
 

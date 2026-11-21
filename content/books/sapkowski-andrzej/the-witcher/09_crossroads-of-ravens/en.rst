@@ -7,10 +7,12 @@ The Witcher 9, Crossroads of Ravens, Sapkowski (2024)
 :category: book
 :summary: 
 :description: Book review.
-:tags: review, quote
+:tags: review
 :slug: sapkowski_crossroads-of-ravens
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/09_crossroads-of-ravens/social.jpg
+
+.. include:: ../../../../extra/snippets.inc
 
 .. image:: /books/sapkowski-andrzej/the-witcher/09_crossroads-of-ravens/cover.jpg
    :width: 8em
@@ -23,3 +25,7 @@ But what if you have not read the other stories? True, it may seem most natural 
 But, is it any good? Not all of those Netflix spin-offs, for example, were. Certainly, this could have been a commercial success, with the author merely providing lots of fan-service but no depth, little craft, and not much *art*. It is gratifying to see that is **not**, in fact, what he did. I must admit, though, to me, it did feel a bit awkward and disjointed at the beginning. The series as a whole is comprised of short stories (set earlier) and novels (set later). This work, being the latest published but having the earliest setting, already encounters a challenge with fitting in. In this context, it is interesting that this book works, in a sense,  as both a short story collection **and** a novel. It’s different. And within it, the author does a number of things that are *different*. He doesn’t *play it safe*. Does the author pull this off? Does he make it work? In my view? Yes. It builds over the course of the book, but by the time the reader reaches the end, it is clear that the author has done what he set out to do and has brought the reader to where he means you to be. The ending of the story does not become truly clear and fully meaningful until the ending of the book. And, by the way, I consider the ending to be excellent.
 
 I look forward to the next in the series, should another be forthcoming.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7796806673>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/crossroads-of-ravens>`_ |br|
+🚫 Bookwyrm |br|

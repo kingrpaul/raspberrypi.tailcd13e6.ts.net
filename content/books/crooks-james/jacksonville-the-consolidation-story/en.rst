@@ -12,6 +12,8 @@ Jacksonville, The Consolidation Story, Crooks (2004)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/crooks-james/jacksonville-the-consolidation-story/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/crooks-james/jacksonville-the-consolidation-story/cover.jpg
    :alt: book cover showing protesters above and a stadium below
    :width: 10em
@@ -27,3 +29,8 @@ It is not a page-turner. It is an academic text, extensively footnoted, and well
 but it is well-written, approachable, and of potential interest to anyone who has a connection 
 to that city and its history during the second half of the twentieth century. 
 If that is your interest, this is your book.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7863109464>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/jacksonville>`_ |br|
+🚫 Bookwyrm |br|
+

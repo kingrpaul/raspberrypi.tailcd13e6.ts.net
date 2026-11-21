@@ -7,7 +7,7 @@ Coffee
 :category: snap
 :summary: 
 :description: Chicory coffee black as a traitor's heart that rests unmoved as cream pours in, only whispering "More".
-:tags:
+:tags: 
 :slug: 2026-11-17_coffee
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-11-17_coffee/social-en.jpg

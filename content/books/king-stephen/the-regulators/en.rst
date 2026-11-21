@@ -17,9 +17,7 @@ The Regulators, King (1996)
 .. image:: /books/king-stephen/the-regulators/cover.jpg
    :alt: The Regulators
    :width: 12em
-
-|goodreads| `At Goodreads <https://www.goodreads.com/book/show/10596.The_Regulators>`_ |br|
-|wp| `At Wikipedia <https://en.wikipedia.org/wiki/The_Regulators_(novel)>`_
+   :target: https://en.wikipedia.org/wiki/The_Regulators_(novel)
 
 Among other things, this novel is a biting critique of broadcast television, 
 particularly the programming directed at American children—cinematic SpaghettiOs—both 
@@ -44,3 +42,7 @@ Three decades have passed since this novel was published,
 situating it midway between the policy discussions of the 1960s 
 and the popular culture of today. Much has changed in the 
 intervening years. But the author’s critique holds up.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8385514537>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/the-regulators>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/229335/s/the-regulators>`_ |br|

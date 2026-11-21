@@ -6,8 +6,8 @@ The Dark Tower 3, The Waste Lands King (1991)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: 📘
+:tags: 
 :slug: king_the-waste-lands
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/3.0_the-waste-lands/social.jpg

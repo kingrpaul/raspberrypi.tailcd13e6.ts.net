@@ -12,6 +12,8 @@ Radio Free Albemuth, PK Dick (1976)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/dick-philip/radio-free-albemuth/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/dick-philip/radio-free-albemuth/cover.jpg
    :alt: Book cover containing a glowing satellite in space. 
    :width: 10em
@@ -31,3 +33,7 @@ In some regards, this writing is very much a product of its place and time: Cali
 It probably doesn’t spoil the story to compare its ending to that of ‘A Scanner Darkly’ which was published in 1977. ‘Radio Free Albemuth’ was published posthumously in 1985. The ending of ‘A Scanner Darkly’ is powerful. While their endings are similar, the ending of ‘Radio Free Albemuth’ lands perhaps a little more softly. It is nonetheless solid and well-directed.
 
 Whether it is better to read this novel before or after watching the author’s speech in Metz is unclear.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8478074708>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/radio-free-albemuth>`_ |br|
+|bookwyrm| `Bookwyrm <https://books.theunseen.city/book/204366/s/radio-free-albemuth>`_ |br|

@@ -6,11 +6,13 @@ The Dark Tower 5, Wolves of the Calla, King (2003)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: ⸻
+:tags: quote
 :slug: king_wolves-of-the-calla
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/5.0_wolves-of-the-calla/social.jpg
+
+.. include:: ../../../../extra/snippets.inc
 
 .. image:: /books/king-stephen/the-dark-tower/5.0_wolves-of-the-calla/cover.jpg
    :width: 8em

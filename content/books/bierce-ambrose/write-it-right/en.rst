@@ -12,6 +12,8 @@ Write It Right: A Little Blacklist of Literary Faults, Bierce (1909)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/bierce-ambrose/write-it-right/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/bierce-ambrose/write-it-right/cover.jpg
    :width: 10em
    :alt: book cover
@@ -50,3 +52,9 @@ Perhaps we could all do a little better.
 .. |global-grey| image:: https://www.globalgreyebooks.com/assets/img/logo.png
    :height: 1.5em
    :alt: 🌐
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8974076040>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/write-it-right-1909>`_ |br|
+🚫 Bookwyrm |br|
+
+

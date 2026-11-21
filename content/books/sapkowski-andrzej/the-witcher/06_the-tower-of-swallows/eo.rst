@@ -6,13 +6,11 @@ La Wiĉer 6, La Turo de Hirundoj, Sapkowski (1997)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: sapkowski_the-tower-of-swallows
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/06_the-tower-of-swallows/social.jpg
-
-
 
 .. image:: /books/sapkowski-andrzej/the-witcher/06_the-tower-of-swallows/cover.jpg
    :width: 8em

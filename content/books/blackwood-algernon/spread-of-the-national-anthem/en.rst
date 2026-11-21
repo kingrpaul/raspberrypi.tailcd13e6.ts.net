@@ -7,7 +7,7 @@ Spread of the National Anthem, Blackwood (1899)
 :category: book
 :summary:
 :description:
-:tags: review, transcription, auth:blackwood, format:pdf, pub:internet-archive
+:tags: transcription, auth:blackwood, format:pdf, pub:internet-archive
 :slug: blackwood_spread-of-the-national-anthem
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/spread-of-the-national-anthem/social.jpg

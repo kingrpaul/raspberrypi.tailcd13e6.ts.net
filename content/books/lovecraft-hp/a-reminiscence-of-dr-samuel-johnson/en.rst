@@ -18,11 +18,14 @@ A Reminiscence of Dr. Samuel Johnson, Lovecraft (1917)
    :width: 15em
    :alt: Lovecraft as an eighteenth-century gentleman by Virgil Finlay.
 
-|ws| `"A Reminiscence of Dr. Samuel Johnson" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/The_United_Amateur/November_1917/A_Reminiscence_of_Dr._Samuel_Johnson>`_
-
 Among the aspects of this author’s singular style of writing is that it sounds as if it is the product of a prior age. Since the author wrote over a century ago, this is unsurprising to present-day readers. Yet, it seems even his contemporaries found the author’s writing to be antiquated—old-fashioned. This suggests the question: 
 
 **“Why?”**
 
 Having heard such a question, one who writes might well feel some instinctual need to compose an answer. One who writes fiction will feel no particular need for that answer to be truthful. Better it should be unnatural and just a little weird.
 
+|ws| `"A Reminiscence of Dr. Samuel Johnson" by H.P. Lovecraft at Wikisource <https://en.wikisource.org/wiki/The_United_Amateur/November_1917/A_Reminiscence_of_Dr._Samuel_Johnson>`_
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/7827691027>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/a-reminiscence-of-dr-samuel-johnson>`_ |br|
+🚫 Bookwyrm |br|

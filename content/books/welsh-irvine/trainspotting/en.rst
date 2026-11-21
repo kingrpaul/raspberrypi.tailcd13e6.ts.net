@@ -12,6 +12,8 @@ Trainspotting, Welsh (1993)
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/welsh-irvine/trainspotting/social.jpg
 
+.. include:: ../../../extra/snippets.inc
+
 .. image:: /books/welsh-irvine/trainspotting/cover.jpg
    :alt: book cover
    :width: 10em
@@ -29,3 +31,7 @@ What he does instead, he does well. This is a book worth the effort of reading.
    :width: 8em
    
    Bonus illustration created by the book's prior owner.
+
+|goodreads| `Goodreads <https://www.goodreads.com/review/show/8140405090>`_ |br|
+|hardcover| `Hardcover <https://hardcover.app/books/trainspotting>`_ |br|
+🚫 Bookwyrm |br|

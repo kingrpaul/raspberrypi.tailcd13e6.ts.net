@@ -6,13 +6,11 @@ La Wiĉer 1, La Lasta Deziro, Sapkowski (1993)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote, esperanto-lingva
+:description: 📘
+:tags: esperanto-lingva
 :slug: sapkowski_the-last-wish
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/01_the-last-wish/social.jpg
-
-
 
 .. image:: /books/sapkowski-andrzej/the-witcher/01_the-last-wish/cover.jpg
    :width: 8em

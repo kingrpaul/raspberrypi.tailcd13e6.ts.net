@@ -6,8 +6,8 @@ The Witcher 8, Season of Storms, Sapkowski (2013)
 :author: pairko
 :category: book
 :summary: 
-:description: Stub.
-:tags: review, quote
+:description: 📘
+:tags: quote
 :slug: sapkowski_season-of-storms
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/08_season-of-storms/social.jpg
