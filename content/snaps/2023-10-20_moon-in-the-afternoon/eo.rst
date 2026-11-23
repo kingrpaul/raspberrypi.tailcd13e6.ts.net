@@ -7,7 +7,7 @@ Luno en la Posttagmezo
 :category: snap
 :summary: La luno estas videbla super la arboj.
 :description: Lunarko vidata kontraŭ klara posttagmeza ĉielo super pino.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-10-20_moon-in-the-afternoon
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-20_moon-in-the-afternoon/social.jpg

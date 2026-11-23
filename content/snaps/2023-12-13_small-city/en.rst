@@ -7,7 +7,7 @@ Small City
 :category: snap
 :summary: View from above a small city in Mississippi.
 :description: Buildings, partking lot,  cars, hills beyond.
-:tags: snap
+:tags: 
 :slug: 2023-12-13_small-city
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-13_small-city/social.jpg

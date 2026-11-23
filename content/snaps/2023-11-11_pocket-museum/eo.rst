@@ -7,7 +7,7 @@ Poŝmuzeo
 :category: snap
 :summary: La Poŝmuzeo en Hattiesburg, Misisipo establita en 2020. La plej eta muzeo de Misisipio.
 :description: Ŝildo sur brika muro, 'Hattiesburg Pocket Museum, Mississippi's Tiniest Museum', kaj muso portanta veŝton.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-11_pocket-museum
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-11_pocket-museum/social.jpg

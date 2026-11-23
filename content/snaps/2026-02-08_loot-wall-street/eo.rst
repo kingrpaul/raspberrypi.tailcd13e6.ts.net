@@ -7,7 +7,7 @@ Prirabu Wall $treet
 :category: snap
 :summary: Arto sur akvometra kovrilo de 'LeLuna Street Art' de Nov-Orleano.
 :description: Akvometra kovrilo, pentrita rozkolora kaj verda, kun teksto, subskribita.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_loot-wall-street
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_loot-wall-street/social.jpg

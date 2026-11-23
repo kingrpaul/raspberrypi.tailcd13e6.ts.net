@@ -7,7 +7,7 @@ Balcony Bar and Cafe
 :category: snap
 :summary: Balcony Bar and Cafe, New Orleans, www.balconybarandcafe.com
 :description: Green and burgundy building, second story balcony, silhouette mural of diners and musicians.
-:tags: snap
+:tags: 
 :slug: 2026-02-08_balcony-bar-and-cafe
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_balcony-bar-and-cafe/social.jpg

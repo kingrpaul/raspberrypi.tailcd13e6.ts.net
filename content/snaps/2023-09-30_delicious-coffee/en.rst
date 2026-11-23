@@ -7,7 +7,7 @@ Delicious Coffee
 :category: snap
 :summary: The most delicious coffee in my town today was here, in my house.
 :description: Coffee with milk in a cup.
-:tags: snap
+:tags: 
 :slug: 2023-09-30_delicious-coffee
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-30_delicious-coffee/social.jpg

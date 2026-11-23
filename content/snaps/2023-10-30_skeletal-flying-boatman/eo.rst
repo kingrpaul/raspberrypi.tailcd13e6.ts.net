@@ -7,7 +7,7 @@ Skeleta Fluganta Boatisto
 :category: snap
 :summary: La skeleto fluĝas per boato sub la plafono.
 :description: Malgranda boato kun aparta motoro, pendanta de restoracia plafono, kun skeleto ŝajne stiranta, kun levita brako, portante vestaĵojn, ĉapelon, sunokulvitrojn kaj savjakon.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-10-30_skeletal-flying-boatman
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-30_skeletal-flying-boatman/social.jpg

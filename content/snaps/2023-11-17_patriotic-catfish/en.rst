@@ -7,7 +7,7 @@ Patriotic Catfish
 :category: snap
 :summary: A catfish carrying an American flag. It is from the heartland and very strong. The fish says "Demand the best..."
 :description: A poster in a restaurant advertising Heartland Catfish shows a standing catfish carrying an American flag.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-17_patriotic-catfish
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_patriotic-catfish/social.jpg

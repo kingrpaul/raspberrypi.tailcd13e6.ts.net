@@ -7,7 +7,7 @@ Sola Pianisto
 :category: snap
 :summary: Jen pentrajo de pianisto sur porĉa muro en Biloxi, Misisipio de Maddie Andrews.
 :description: Murpentraĵo aspektas kvazaŭ viro ludas pianon laŭ la rando de porĉo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-27_lone-pianist
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-27_lone-pianist/social.jpg

@@ -7,7 +7,7 @@ Venu Kune
 :category: snap
 :summary: Pentraĵo sur muro kiu diras Venu Kune.
 :description: Murpentraĵo sur konstruaĵo, radiantaj koloroj, Venu Kune, kvar ombraj marŝantaj homoj kiel 'Abbey Road'.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-18_come-together
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-18_come-together/social.jpg

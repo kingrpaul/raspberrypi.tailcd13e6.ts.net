@@ -7,7 +7,7 @@ Crescent City
 :category: snap
 :summary: Restaurant sign, smiling crescent moon, Crescent City Grill, Seafood, Pasta, Soup, Salad.
 :description: Restaurant sign, on a wall, under an iron railing.
-:tags: snap
+:tags: 
 :slug: 2023-12-05_crescent-city
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-05_crescent-city/social.jpg

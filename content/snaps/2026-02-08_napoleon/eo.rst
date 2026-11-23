@@ -7,7 +7,7 @@ Napoleono
 :category: snap
 :summary: Sur la kamenbreto, la imperiestro vaĉas super la gasteja lito, www.creolegardens.com.
 :description: Reproduktaĵo de 'La Imperiestro Napoleono en sia Studĉambro ĉe la Tuileries'.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_napoleon
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_napoleon/social.jpg

@@ -7,7 +7,7 @@ French Market
 :category: snap
 :summary: Cafe du Monde and French Market Float, Mardi Gras 2026.
 :description: A parade float with red and green lights.
-:tags: snap
+:tags: 
 :slug: 2026-02-07_french-market
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_french-market/social.jpg

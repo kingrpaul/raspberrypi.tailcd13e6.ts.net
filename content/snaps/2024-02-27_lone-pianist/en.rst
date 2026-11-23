@@ -7,7 +7,7 @@ Lone Pianist
 :category: snap
 :summary: A painting of a pianist on a porch wall in Biloxi, Mississippi by Maddie Andrews.
 :description: A mural looks as if a man is playing the piano on the edge of a terrace.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-27_lone-pianist
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-27_lone-pianist/social.jpg

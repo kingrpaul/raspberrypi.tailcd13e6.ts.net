@@ -7,7 +7,7 @@ Kapitano de Pygmalion
 :category: snap
 :summary: Paradĉaro de la Kapitano de Pygmalion, Karnavalo 2026
 :description: Paradĉaro markita 'Kapitano de Pygmalion'. 
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-07_pygmalion-captain
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_pygmalion-captain/social.jpg

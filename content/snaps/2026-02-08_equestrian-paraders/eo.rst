@@ -7,7 +7,7 @@
 :category: snap
 :summary: Ridantoj sur ĉevaloj disdonantaj ruĝajn rozojn, Karnavalo 2026.
 :description: Ĉevalrajdantoj, kies plej antaŭa ulo portas la usonan flagon.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_equestrian-paraders
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_equestrian-paraders/social.jpg

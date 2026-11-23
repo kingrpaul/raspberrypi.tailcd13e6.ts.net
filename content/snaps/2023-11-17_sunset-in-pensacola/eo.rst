@@ -7,7 +7,7 @@ Sunsubiro en Pensacola
 :category: snap
 :summary: Aŭtuna sunsubiro ĉe Pensacola Beach.
 :description: La suno subiras malantaŭ konstruaĵo ĉe Pensacola Beach, Florido.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-17_sunset-in-pensacola
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_sunset-in-pensacola/social.jpg

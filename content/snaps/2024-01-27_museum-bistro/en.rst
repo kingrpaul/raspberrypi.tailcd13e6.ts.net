@@ -7,7 +7,7 @@ Museum Bistro
 :category: snap
 :summary: Painting, Tiny Mouse Cafe 
 :description: Painting, two mice, two entrances Museum Cafe, Entrance for Staff, Only for Employees, mousetrap.
-:tags: snap
+:tags: 
 :slug: 2024-01-27_museum-bistro
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-27_museum-bistro/social.jpg

@@ -7,7 +7,7 @@ Pentraĵo de Plantejo
 :category: snap
 :summary: Murpentraĵo, tervojo tra kampo en plantejo.
 :description: Murpentraĵo, farmisto staras en sia kampo, kiun trairas tervojo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-18_painting-of-a-plantation
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-18_painting-of-a-plantation/social.jpg

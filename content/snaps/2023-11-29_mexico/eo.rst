@@ -7,7 +7,7 @@ Meksiko
 :category: snap
 :summary: Jen emblemo de Meksiko trovita en meksika restoracio.
 :description: Reĝa aglo mordanta serpenton, majaa kalendaro, Meksiko, kaj verda, blanka kaj ruĝa flago, blua ĉielo, nuboj.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-29_mexico
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-29_mexico/social.jpg

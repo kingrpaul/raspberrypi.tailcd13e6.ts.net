@@ -7,7 +7,7 @@ Latuna Kastoro
 :category: snap
 :summary: Bucky la Kastoro.
 :description: Latuna statuo de kastoro, la simbolo de Buc-ee's.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-24_brass-beaver
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-24_brass-beaver/social.jpg

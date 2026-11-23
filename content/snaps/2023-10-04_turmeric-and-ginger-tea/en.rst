@@ -7,7 +7,7 @@ Turmeric and Ginger Tea
 :category: snap
 :summary: Turmeric and ginger tea is golden in color.
 :description: A large green cup containing turmeric-ginger tea, which is a bright golden color.
-:tags: snap
+:tags: 
 :slug: 2023-10-04_turmeric-and-ginger-tea
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-04_turmeric-and-ginger-tea/social.jpg

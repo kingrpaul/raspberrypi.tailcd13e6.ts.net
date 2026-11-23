@@ -7,7 +7,7 @@ Manĝu Loke
 :category: snap
 :summary: La restoracio petas ke oni 'Mangu Loke.' La intenco eble estas ke vi mangos tre loke (en ĉi tiu restoracio).
 :description: La brika muro de restoracio kovrita per la vortoj MANĜU LOKE.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-10-28_eat-local
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-28_eat-local/social.jpg

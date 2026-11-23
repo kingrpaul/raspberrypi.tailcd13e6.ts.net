@@ -7,7 +7,7 @@ Sasquatch of the Pinebelt
 :category: snap
 :summary: Sasquatch of the Pinebelt
 :description: A blue-grey ink drawing on a wrecked wall that show a furry striding creature
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-09_sasquatch-of-the-pinebelt
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-09_sasquatch-of-the-pinebelt/social.jpg

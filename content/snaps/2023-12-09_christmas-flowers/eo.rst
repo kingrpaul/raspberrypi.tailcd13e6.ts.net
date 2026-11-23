@@ -7,7 +7,7 @@ Kristnaskaj Floroj
 :category: snap
 :summary: Kristnaska kakto komencas flori.
 :description: Kristnaska kakto, komencante flori.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-12-09_christmas-flowers
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-09_christmas-flowers/social.jpg

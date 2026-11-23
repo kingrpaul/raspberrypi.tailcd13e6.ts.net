@@ -7,7 +7,7 @@ Parading Crawfish
 :category: snap
 :summary: Crawfish parading over houses, across the sky in New orleans by Madison Roy www.indigomadness.com.
 :description: A mural, crayfish parading, with music above colorful houses.
-:tags: snap
+:tags: 
 :slug: 2024-04-27_parading-crawfish
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-27_parading-crawfish/social.jpg

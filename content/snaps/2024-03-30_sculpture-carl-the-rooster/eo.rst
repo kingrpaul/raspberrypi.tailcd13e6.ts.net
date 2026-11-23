@@ -7,7 +7,7 @@ Skulptaĵo: Carl la Virkoko
 :category: snap
 :summary: Skulptaĵo: Carl la Virkoko, Ocean Springs, Misisipio, twistedanchortattoo.com
 :description: Metala virkoko sur la gazono antaŭ tatuejo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-03-30_sculpture-carl-the-rooster
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-30_sculpture-carl-the-rooster/social.jpg

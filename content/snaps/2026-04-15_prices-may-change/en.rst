@@ -7,7 +7,7 @@ Prices May Change
 :category: snap
 :summary: Price changes unlikely to be downward.
 :description: Statue of mariachi holding maracas, sign says 'Prices may change.'
-:tags: snap
+:tags: 
 :slug: 2026-04-15_prices-may-change
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-04-15_prices-may-change/social.jpg

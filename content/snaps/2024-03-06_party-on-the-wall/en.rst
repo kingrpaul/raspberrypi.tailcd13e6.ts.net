@@ -7,7 +7,7 @@ Party on the Wall
 :category: snap
 :summary: Mural, 406 Club, Biloxi, Mississippi by Niko
 :description: Murpentraĵo, homoj amasiĝis en trinkejo.
-:tags: snap
+:tags: 
 :slug: 2024-03-06_party-on-the-wall
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-06_party-on-the-wall/social.jpg

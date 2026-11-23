@@ -7,7 +7,7 @@ Brussels Sprouts
 :category: snap
 :summary: The brussels sprouts grow and become larger.
 :description: Two young  brussels sprouts plants.
-:tags: snap
+:tags: 
 :slug: 2023-12-21_brussels-sprouts
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-21_brussels-sprouts/social.jpg

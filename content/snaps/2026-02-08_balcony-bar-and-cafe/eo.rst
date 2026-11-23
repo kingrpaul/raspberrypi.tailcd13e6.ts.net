@@ -7,7 +7,7 @@ Balkona Trinkejo kaj Kafejo
 :category: snap
 :summary: Balkona Trinkejo kaj Kafejo, Nov-Orleano, www.balconybarandcafe.com
 :description: Verda kaj sangoruĝa konstruaĵo, balkono ĉe la dua etaĝo, silueta murpentraĵo de manĝantoj kaj muzikistoj.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_balcony-bar-and-cafe
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_balcony-bar-and-cafe/social.jpg

@@ -7,7 +7,7 @@ Patriota Katfiŝo
 :category: snap
 :summary: Jen katfiŝo kiu portas usonan flagon. Estas el la korlando kaj tre forta. La fiŝo diras "Postulu la plej bono..."
 :description: Afiŝo en restoracio reklamas Heartland Catfish, montras starantan katfiŝon kiu portas usonan flagon.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-17_patriotic-catfish
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_patriotic-catfish/social.jpg

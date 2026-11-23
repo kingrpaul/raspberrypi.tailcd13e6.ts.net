@@ -7,7 +7,7 @@ Meridian-a Muzeo de Arto
 :category: snap
 :summary: Meridian-a Muzeo de Arto.
 :description: Emblemo, Meridian-a Muzeo de Arto, Misisipio, desegnaĵo de pordo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-12-26_meridian-museum-of-art
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-26_meridian-museum-of-art/social.jpg

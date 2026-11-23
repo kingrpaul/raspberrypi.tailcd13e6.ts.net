@@ -7,7 +7,7 @@ Tri Alumetoj
 :category: snap
 :summary: Arta Kafejo de Kathleen — 4424 Strato de Amantoj, Parko de Universitato, Teksaso — Brunĉo Tagmanĝo Vespermanĝo — Bifstekoj Pastoj Marfruktoj Salatoj Desertoj — Tre bongusta!
 :description: Alumetujo, parte malfermita, enhavanta tri alumetojn, kun desegnaĵo de la Arta Kafejo de Kathleen en Dallas.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-01-03_three-matches
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-03_three-matches/social.jpg

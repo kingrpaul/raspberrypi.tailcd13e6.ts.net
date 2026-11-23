@@ -7,7 +7,7 @@ Kukurba Spico
 :category: snap
 :summary: 
 :description: Kukurba spica teo de Benner.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-12-15_pumpkin-spice
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-15_pumpkin-spice/social.jpg

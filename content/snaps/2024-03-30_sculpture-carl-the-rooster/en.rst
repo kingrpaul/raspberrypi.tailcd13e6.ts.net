@@ -7,7 +7,7 @@ Sculpture: Carl the Rooster
 :category: snap
 :summary: Sculpture: Carl the Rooster, Ocean Springs, Mississippi, twistedanchortattoo.com
 :description: Metal rooster on the lawn before a tattoo parlor.
-:tags: snap
+:tags: 
 :slug: 2024-03-30_sculpture-carl-the-rooster
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-30_sculpture-carl-the-rooster/social.jpg

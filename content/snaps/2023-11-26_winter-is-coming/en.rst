@@ -7,7 +7,7 @@ Winter is Coming
 :category: snap
 :summary: This is for the cold, the extreme cold.
 :description: Green mask for very cold weather.
-:tags: snap
+:tags: 
 :slug: 2023-11-26_winter-is-coming
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-26_winter-is-coming/social.jpg

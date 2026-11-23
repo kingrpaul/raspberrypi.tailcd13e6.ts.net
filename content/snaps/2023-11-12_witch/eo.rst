@@ -7,7 +7,7 @@ Sorĉistino
 :category: snap
 :summary: Sorĉistino fluganta sur sia balailo, super la gazono, trans la strato el la kinejo.
 :description: Dekoracia modelo ekster konstruaĵo montras flugantan sorĉistinon.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-12_witch
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-12_witch/social.jpg

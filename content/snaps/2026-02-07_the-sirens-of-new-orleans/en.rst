@@ -7,7 +7,7 @@ The Sirens of New Orleans
 :category: snap
 :summary: Parade of the Sirens of New Orleans, Mardi Gras 2026, www.sirensofneworleans.com
 :description: Paradantinoj paradantaj kvazaŭ sirenoj.
-:tags: snap
+:tags: 
 :slug: 2026-02-07_the-sirens-of-new-orleans
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_the-sirens-of-new-orleans/social.jpg

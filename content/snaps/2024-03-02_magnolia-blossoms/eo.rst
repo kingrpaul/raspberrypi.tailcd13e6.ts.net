@@ -7,7 +7,7 @@ Magnoliaj Floroj
 :category: snap
 :summary: Murpentraĵo de Galerio 782, Biloxi, Misisipio de Kooperativaj Artistoj, gallery782.org
 :description: Murpentraĵo, materialoj por pentri kaj tri grandaj magnoliaj floroj.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-03-02_magnolia-blossoms
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-02_magnolia-blossoms/social.jpg

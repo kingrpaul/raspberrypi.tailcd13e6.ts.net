@@ -7,7 +7,7 @@ Pentraĵo de Urbo
 :category: snap
 :summary: Jen pentraĵo de urba ŝtrato.
 :description: Pentraĵo sur muro kiu montras urban straton.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-12-10_painting-of-a-city
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-10_painting-of-a-city/social.jpg

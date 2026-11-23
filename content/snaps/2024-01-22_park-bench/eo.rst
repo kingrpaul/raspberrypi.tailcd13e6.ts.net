@@ -7,7 +7,7 @@ Parka Benko
 :category: snap
 :summary: Anasoj en Nov-Orleano.
 :description: Benko apud anasoj ĉe la bordo de lago, ĉio en parko de Nov-Orleano.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-01-22_park-bench
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-22_park-bench/social.jpg

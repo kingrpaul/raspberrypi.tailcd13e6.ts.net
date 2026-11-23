@@ -7,7 +7,7 @@ Vintro Venas
 :category: snap
 :summary: Ĉi tio estas por la malvarmo, la ega malvarmo.
 :description: Verda masko por tre malvarma vetero.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-26_winter-is-coming
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-26_winter-is-coming/social.jpg

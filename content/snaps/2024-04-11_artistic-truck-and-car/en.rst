@@ -7,7 +7,7 @@ Artistic Truck and Car
 :category: snap
 :summary: Traveling art of Art 120, www.art120.org
 :description: Truck and car, covered with art, painted, colorful.
-:tags: snap
+:tags: 
 :slug: 2024-04-11_artistic-truck-and-car
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-11_artistic-truck-and-car/social.jpg

@@ -7,7 +7,7 @@ Redwine Trio
 :category: snap
 :summary: Dr. Ben Redwine Trio, who performed at Jazz Fest 2022 — www.redwinejazz.com.
 :description: A trio of live musicians plays on-stage.
-:tags: snap
+:tags: 
 :slug: 2024-01-28_redwine-trio
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-28_redwine-trio/social.jpg

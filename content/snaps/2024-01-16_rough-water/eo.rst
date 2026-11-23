@@ -7,7 +7,7 @@ Malglata Akvo
 :category: snap
 :summary: Pro la forta vento, la surfaco de la lago estis malglata.
 :description: La malglata surfaco de lago, arboj videblaj malantaŭe.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-01-16_rough-water
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-16_rough-water/social.jpg

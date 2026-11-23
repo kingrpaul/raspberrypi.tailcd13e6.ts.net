@@ -7,7 +7,7 @@ Moon in the Afternoon
 :category: snap
 :summary: The moon is visible above the trees.
 :description: A crescent moon seen against a clear afternoon sky above a pine-tree.
-:tags: snap
+:tags: 
 :slug: 2023-10-20_moon-in-the-afternoon
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-20_moon-in-the-afternoon/social.jpg

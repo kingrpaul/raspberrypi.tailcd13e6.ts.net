@@ -7,7 +7,7 @@ Jimmy Rodgers, La Jodlada Bremsisto
 :category: snap
 :summary: La pentraĵo sur la muro diras, ke Jimmy Rodgers estis la patro de kontreo.
 :description: La pentraĵo sur la muro diras, ke Jimmy Rodgers estis la patro de kontreo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-17_jimmy-rodgers-the-yodeling-brakeman
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_jimmy-rodgers-the-yodeling-brakeman/social.jpg

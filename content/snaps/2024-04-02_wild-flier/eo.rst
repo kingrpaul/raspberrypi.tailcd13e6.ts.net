@@ -7,7 +7,7 @@ Sovaĝa Fluganto
 :category: snap
 :summary: Murpentraĵo, Sovaĝa Fluganto, Biloxi Misisipio de Cali Rob.
 :description: Murpentraĵo, Sovaĝa fluganto, blua birdo, flugiloj etenditaj.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-04-02_wild-flier
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-02_wild-flier/social.jpg

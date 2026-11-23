@@ -7,7 +7,7 @@ Chandeleur Mural
 :category: snap
 :summary: Chandeleur Mural by Tricia McAlvain (2021) in Gulfport, Mississippi
 :description: Mural, Coast, Gulf of Mexico, sunset, sailing boat, lighthouse, state flag, signature Tricia McAlvain (2021), on the Chandeleur Island Brewing Company, Gulfport Mississippi.
-:tags: snap
+:tags: 
 :slug: 2024-09-17_chandeleur-mural
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-09-17_chandeleur-mural/social.jpg

@@ -7,7 +7,7 @@ Movie Night
 :category: snap
 :summary: Movie Night Parade Float, Mardi Gras 2026
 :description: A red and purple parade float with yellow stars undeer the branches of an oak.
-:tags: snap
+:tags: 
 :slug: 2026-02-08_movie-night
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_movie-night/social.jpg

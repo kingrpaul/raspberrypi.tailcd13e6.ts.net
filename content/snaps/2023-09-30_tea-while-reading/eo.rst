@@ -7,7 +7,7 @@ Teo Dum Legado
 :category: snap
 :summary: Kiam la vetero estas bona, estas agrable legi kun taso da teo sub la ĉielo.
 :description: Granda blua taso, enhavanta teon, kiu estas bruna, kaj ruĝa tesaketeto pendanta laŭ la flanko.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-09-30_tea-while-reading
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-30_tea-while-reading/social.jpg

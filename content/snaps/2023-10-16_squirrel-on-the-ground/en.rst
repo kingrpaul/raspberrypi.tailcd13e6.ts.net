@@ -7,7 +7,7 @@ Squirrel on the Ground
 :category: snap
 :summary: A photographer has the attention of a squirrel.
 :description: Squirrel on the ground among leaves, sitting up looking into the camera.
-:tags: snap
+:tags: 
 :slug: 2023-10-16_squirrel-on-the-ground
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-16_squirrel-on-the-ground/social.jpg

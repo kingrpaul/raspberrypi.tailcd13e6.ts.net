@@ -7,7 +7,7 @@ Diptika Murpentraĵo
 :category: snap
 :summary: Diptika murpentraĵo, Nov-Orleano
 :description: Du vizaĝoj, kun blua nuanco, en apartaj paneloj, kvazaŭ antaŭ vitralo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_diptych-mural
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_diptych-mural/social.jpg

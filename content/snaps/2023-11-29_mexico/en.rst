@@ -7,7 +7,7 @@ Mexico
 :category: snap
 :summary: Emblem of Mexico found in a Mexican restaurant.
 :description: Golden eagle biting a snake, Mayan calendar, Mexico, and green, white and red flag, blue sky, clouds.
-:tags: snap
+:tags: 
 :slug: 2023-11-29_mexico
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-29_mexico/social.jpg

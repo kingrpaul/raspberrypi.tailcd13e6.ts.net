@@ -7,7 +7,7 @@ Ora Koro de Alabamo
 :category: snap
 :summary: Jen murpentrajo, kiu montras Koro el Oro.
 :description: Murpentraĵo montras la vortojn 'Heart of Gold' (koro el oro), la vorto "oro" estas orkolora kaj la "O" estas anstataŭigita per homa koro.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-05-12_golden-heart-of-alabama
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-05-12_golden-heart-of-alabama/social.jpg

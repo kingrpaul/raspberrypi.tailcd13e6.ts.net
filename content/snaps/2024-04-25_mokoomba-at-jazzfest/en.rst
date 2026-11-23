@@ -7,7 +7,7 @@ Mokoomba
 :category: snap
 :summary: Mokoomba, a band from Zimbabwe, playing at Jazz Fest 2024 in New Orleans.
 :description: Mokoomba, a band from Zimbabwe, playing at Jazz Fest 2024 in New Orleans.
-:tags: snap
+:tags: 
 :slug: 2024-04-25_mokoomba-at-jazzfest
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-25_mokoomba-at-jazzfest/social.jpg

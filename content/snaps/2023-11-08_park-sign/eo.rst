@@ -7,7 +7,7 @@ Signo de Parko
 :category: snap
 :summary: La Universitato de Alabamo: La Parko Ĉe Manderson Alteriĝo.
 :description: Ŝildo, 'La Universitato de Alabamo, La Parko ĉe Manderson Alteriĝo'.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-08_park-sign
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-08_park-sign/social.jpg

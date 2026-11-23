@@ -7,7 +7,7 @@ Painting of a Plantation
 :category: snap
 :summary: Mural, dirt road through a field in a plantation. 
 :description: Mural, a farmer stands in his field, which is crossed by a dirt road.
-:tags: snap
+:tags: 
 :slug: 2024-02-18_painting-of-a-plantation
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-18_painting-of-a-plantation/social.jpg

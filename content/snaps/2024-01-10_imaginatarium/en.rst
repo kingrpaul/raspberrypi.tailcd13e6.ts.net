@@ -7,7 +7,7 @@ Imaginatarium
 :category: snap
 :summary: Imaginatarium by Forrest Reiff in Metairie, Louisiana
 :description: David Art Center www.davidartcenter.com, mustard yellow, with many drawings, including a dog wearing a beret, holding a paintbrush before an easel.
-:tags: snap
+:tags: 
 :slug: 2024-01-10_imaginatarium
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-10_imaginatarium/social.jpg

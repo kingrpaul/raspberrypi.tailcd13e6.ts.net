@@ -7,7 +7,7 @@ The Moon
 :category: snap
 :summary: The moon shines in the sky.
 :description: A full moon as seen from the ground through overhanging branches and leaves.
-:tags: snap
+:tags: 
 :slug: 2023-09-29_the-moon
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-29_the-moon/social.jpg

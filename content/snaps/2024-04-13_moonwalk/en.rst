@@ -7,7 +7,7 @@ Moonwalk
 :category: snap
 :summary: Sidewalk Painting, Biloxi Moonwalk, Biloxi Mississipi by Lucinda Perniciaro L'Enfant
 :description: Painting on the sidewalk, Biloxi Moonwalk, looks like the moon.
-:tags: snap
+:tags: 
 :slug: 2024-04-13_moonwalk
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-13_moonwalk/social.jpg

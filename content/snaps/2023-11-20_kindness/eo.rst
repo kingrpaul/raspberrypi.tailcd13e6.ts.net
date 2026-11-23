@@ -7,7 +7,7 @@ Bonkoreco
 :category: snap
 :summary: Bonkoreco gravas.
 :description: Pentraĵo sur metala skatolo, du manoj, bonkoreco gravas.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-20_kindness
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-20_kindness/social.jpg

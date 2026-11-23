@@ -7,7 +7,7 @@ Intense Preaching
 :category: snap
 :summary: Mural seen from a street in New Orleans.
 :description: Mural shows various images including animated preaching.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-01-04_intense-preaching
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-04_intense-preaching/social.jpg

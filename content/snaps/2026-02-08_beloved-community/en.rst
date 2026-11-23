@@ -7,7 +7,7 @@ Beloved Community
 :category: snap
 :summary: Beloved Community, sculpture by Frank Hayden, 1976, New Orleans, www.frankhaydenproject.org
 :description: Street intersection, 'Martin Luther King, Jr,' sculpture, egg-shaped, with hands reaching across.
-:tags: snap
+:tags: 
 :slug: 2026-02-08_beloved-community
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_beloved-community/social.jpg

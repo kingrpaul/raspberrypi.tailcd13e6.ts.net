@@ -7,7 +7,7 @@ Creek
 :category: snap
 :summary: Creek en Tuscaloosa, Alabama 'The South' — en the United States.
 :description: A creek about four feet wide forms a wide S-shape though woods.
-:tags: snap
+:tags: 
 :slug: 2023-09-24_creek
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-24_creek/social.jpg

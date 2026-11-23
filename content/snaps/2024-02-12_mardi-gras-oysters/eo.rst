@@ -7,7 +7,7 @@ Karnavalaj Ostroj - Kaŝitaj Ĝemoj
 :category: snap
 :summary: Dekduo da rostitaj ostroj kaj franca pano, el kiu elstaras forko.
 :description: Dekduo da rostitaj ostroj kaj franca pano, el kiu elstaras forko. Oni ne povas vidi la etajn perlojn en la unua ostro, la plej maldekstra.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-12_mardi-gras-oysters
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-12_mardi-gras-oysters/social.jpg

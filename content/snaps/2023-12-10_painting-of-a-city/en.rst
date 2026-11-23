@@ -7,7 +7,7 @@ Painting of a City
 :category: snap
 :summary: A painting of a city street.
 :description: A painting on a wall that shows a city street.
-:tags: snap
+:tags: 
 :slug: 2023-12-10_painting-of-a-city
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-10_painting-of-a-city/social.jpg

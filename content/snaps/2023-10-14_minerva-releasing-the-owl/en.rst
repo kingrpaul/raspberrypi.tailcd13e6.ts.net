@@ -7,7 +7,7 @@ Minerva Releasing the Owl
 :category: snap
 :summary: The statue in Tuscaloosa, Alabama which is called 'Minerva, Releasing the Owl.'
 :description: In front of a clear sky, a bronze statue, female form, right leg raised, left leg splashing, right arm raised, holding an owl that is taking flight.
-:tags: snap
+:tags: 
 :slug: 2023-10-14_minerva-releasing-the-owl
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-14_minerva-releasing-the-owl/social.jpg

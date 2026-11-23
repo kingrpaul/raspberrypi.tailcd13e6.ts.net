@@ -7,7 +7,7 @@ Kindness
 :category: snap
 :summary: Kindness matters
 :description: Painting on a metal box, two hands, kindness matters.
-:tags: snap
+:tags: 
 :slug: 2023-11-20_kindness
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-20_kindness/social.jpg

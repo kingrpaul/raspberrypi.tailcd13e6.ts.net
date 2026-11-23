@@ -7,7 +7,7 @@ Mardi Gras Oysters - Hidden Gems
 :category: snap
 :summary: A dozen grilled oysters and french bread from which protrudes a fork.
 :description: A dozen grilled oysters and french bread from which protrudes a fork. Not visible in the photograph is the group of small pearls in the leftmost oyster.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-12_mardi-gras-oysters
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-12_mardi-gras-oysters/social.jpg

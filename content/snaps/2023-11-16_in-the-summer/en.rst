@@ -7,7 +7,7 @@ In the Summer
 :category: snap
 :summary: At the beach, when the weather was warmer, Pensacola, Florida.
 :description: View along the beach, an umbrella visible in the distance.
-:tags: snap
+:tags: 
 :slug: 2023-11-16_in-the-summer
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-16_in-the-summer/social.jpg

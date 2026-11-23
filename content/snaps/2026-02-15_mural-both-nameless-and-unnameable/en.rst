@@ -7,7 +7,7 @@ Mural, Both Nameless and Unnameable
 :category: snap
 :summary: Unnamed Mural, Fishbone Alley, Gulfport, Mississippi
 :description: Mural, frenetic arrangment of cartoon elements.
-:tags: snap
+:tags: 
 :slug: 2026-02-15_mural-both-nameless-and-unnameable
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-15_mural-both-nameless-and-unnameable/social.jpg

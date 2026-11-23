@@ -7,7 +7,7 @@ Hell Fighters, USA
 :category: snap
 :summary: Inferbatalistoj, Usono
 :description: A small bag shows a motorcycle store and "Hellfighters USA, The most unique motorcycle shop east of the Mississippi" (revised to say) "Pacific".
-:tags: snap
+:tags: 
 :slug: 2023-12-12_hellfighters-usa
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-12_hellfighters-usa/social.jpg

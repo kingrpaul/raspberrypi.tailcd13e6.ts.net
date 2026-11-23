@@ -7,7 +7,7 @@ Florplena Karnavala Paradĉaro
 :category: snap
 :summary: Jen florplena paradĉaro de Karnavalo antaŭ Grasa Mardo.
 :description: Parade float, at night, covered with flowers with a face, prominent nose, golden laurel, and blonde mustache.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-22_flowery-mardi-gras-float
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-22_flowery-mardi-gras-float/social.jpg

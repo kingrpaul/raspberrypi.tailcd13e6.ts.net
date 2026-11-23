@@ -7,7 +7,7 @@ Filmnokto
 :category: snap
 :summary: Filmnokta Paradĉaro, Karnavalo 2026
 :description: Ruĝa kaj violkolora paradĉaro kun flavaj steloj sub kverkaj branĉoj.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_movie-night
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_movie-night/social.jpg

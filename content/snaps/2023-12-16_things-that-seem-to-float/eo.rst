@@ -7,7 +7,7 @@ Aferoj Kiuj Ŝajnas Ŝvebi
 :category: snap
 :summary: En strata pentrado, aferoj ŝajnas ŝvebi en la aero.
 :description: Pentraĵo, kvin blankaj tabuloj kiuj ŝajnas ŝvebi super la strato kaj ĵeti ombron.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-12-16_things-that-seem-to-float
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-16_things-that-seem-to-float/social.jpg

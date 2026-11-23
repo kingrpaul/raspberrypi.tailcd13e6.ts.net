@@ -7,7 +7,7 @@ Magnolia Blossoms
 :category: snap
 :summary: Gallery 782 Mural, Biloxi, Mississippi by Co-op Artists, gallery782.org
 :description: Mural, painting materials and three large magnolia flowers.
-:tags: snap
+:tags: 
 :slug: 2024-03-02_magnolia-blossoms
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-02_magnolia-blossoms/social.jpg

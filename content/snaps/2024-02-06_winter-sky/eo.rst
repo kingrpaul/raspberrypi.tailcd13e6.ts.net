@@ -7,7 +7,7 @@ Vintra Ĉielo
 :category: snap
 :summary: La reflekto de la ĉielo vidiĝas sur la akvo de la lago.
 :description: Blua kaj oranĝa ĉielo ĉe sunsubiro reflektita sur la surfaco de lago.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-06_winter-sky
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-06_winter-sky/social.jpg

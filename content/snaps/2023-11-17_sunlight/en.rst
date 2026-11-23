@@ -7,7 +7,7 @@ Sunlight
 :category: snap
 :summary: Sunlight shines through the tree.
 :description: An evergreen tree which catches and is illuminated by sunlight.
-:tags: snap
+:tags: 
 :slug: 2023-11-17_sunlight
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_sunlight/social.jpg

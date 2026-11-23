@@ -7,7 +7,7 @@ Teo de Kurkumo kaj Zingibro
 :category: snap
 :summary: Teo de kurkumo kaj zingibro estas orkolora.
 :description: Granda verda taso enhavanta kurkumo-zingibran teon, kiu estas brile orkolora.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-10-04_turmeric-and-ginger-tea
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-04_turmeric-and-ginger-tea/social.jpg

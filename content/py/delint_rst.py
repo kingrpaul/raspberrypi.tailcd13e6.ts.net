@@ -351,7 +351,7 @@ def main() -> int:
     # RETURNS THE LINTING RESULTS 
 
     # Unused valid post tags
-    if len(valid_tags - used_tags) > 0:
+    if len(valid_tags - used_tags) != 0:
         print(rf"Unused tags: {[u for u in (valid_tags - used_tags) ]}")
     
     # Book Reviews Not Posted to Platforms

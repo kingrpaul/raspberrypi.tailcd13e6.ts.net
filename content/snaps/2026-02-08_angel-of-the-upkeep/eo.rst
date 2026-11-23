@@ -7,7 +7,7 @@ Anĝelo de la Bontenado
 :category: snap
 :summary: Ikoneca bildo sur la muro de la gastejo, www.creolegardens.com.
 :description: Sub ora gotika arko troviĝas anĝelo, krucitaj ŝraŭbiloj kaj sendrata borilo.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2026-02-08_angel-of-the-upkeep
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_angel-of-the-upkeep/social.jpg

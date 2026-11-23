@@ -7,7 +7,7 @@ Sideward Glance
 :category: snap
 :summary: Mural, Tribute to Dusti Bongé (www.dustibonge.org) in Biloxi, Mississippi by Zach DePolo www.zachdepolo.art
 :description: Mural, a face that glances to the side.
-:tags: snap
+:tags: 
 :slug: 2024-04-19_sideward-glance
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-19_sideward-glance/social.jpg

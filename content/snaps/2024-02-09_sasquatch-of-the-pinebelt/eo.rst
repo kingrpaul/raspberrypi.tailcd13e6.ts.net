@@ -7,7 +7,7 @@ Saskvaĉo de la Pinzono
 :category: snap
 :summary: Jen la Saskvaĉo de la Pinzono
 :description: Blugriza inkodesegnaĵo sur ruinigita muro kiu montras vilan paŝantan estaĵon
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2024-02-09_sasquatch-of-the-pinebelt
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-09_sasquatch-of-the-pinebelt/social.jpg

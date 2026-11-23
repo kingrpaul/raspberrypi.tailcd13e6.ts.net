@@ -7,7 +7,7 @@ Skeletal Flying Boatman
 :category: snap
 :summary: The skeleton flys by boat under the ceiling.
 :description: A small boat with an outboard motor, suspended from a restaurant ceiling, with a skeleton model seeming to steer, arm upraised, wearing clothing, a hat, sunglasses, and a life-jacket.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-10-30_skeletal-flying-boatman
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-30_skeletal-flying-boatman/social.jpg

@@ -7,7 +7,7 @@ Eta Biblioteko
 :category: snap
 :summary: Jen eta libera kaj senkosta biblioteko. Ŝajnas havi nur kelkajn librojn. Sed, estas bela.
 :description: Malgranda Libera Senpaga Biblioteko, vidata de la trotuaro.
-:tags: snap, esperanto-lingva
+:tags: esperanto-lingva
 :slug: 2023-11-02_little-library
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-02_little-library/social.jpg

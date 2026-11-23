@@ -7,7 +7,7 @@ The Cat's Repose
 :category: snap
 :summary: Birds sing nearby while a lazy cat rests on its mailbox.
 :description: An orange cat lies across the top of a mailbox.
-:tags: snap
+:tags: 
 :slug: 2023-10-06_the-cat-s-repose
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-06_the-cat-s-repose/social.jpg

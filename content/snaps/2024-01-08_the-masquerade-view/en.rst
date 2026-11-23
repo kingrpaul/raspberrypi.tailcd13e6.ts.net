@@ -7,7 +7,7 @@ The Masquerade View
 :category: snap
 :summary: The Masquerade View by Luis Hurtado in Metairie, Louisiana
 :description: Behind palm trees, a building wall covered in a mural shows faces wearing masquerade masks that appear to be guarding the parking lot.
-:tags: snap
+:tags: 
 :slug: 2024-01-08_the-masquerade-view
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-08_the-masquerade-view/social.jpg

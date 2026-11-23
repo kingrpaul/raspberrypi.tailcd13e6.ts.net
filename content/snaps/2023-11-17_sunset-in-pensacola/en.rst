@@ -7,7 +7,7 @@ Sunset in Pensacola
 :category: snap
 :summary: Autumn sunset on Pensacola Beach.
 :description: The sun sets behind building at Pensacola Beach, Florida.
-:tags: snap
+:tags: 
 :slug: 2023-11-17_sunset-in-pensacola
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_sunset-in-pensacola/social.jpg
