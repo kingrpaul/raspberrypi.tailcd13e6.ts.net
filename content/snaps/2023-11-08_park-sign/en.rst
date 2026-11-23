@@ -7,7 +7,7 @@ Park Sign
 :category: snap
 :summary: The University of Alabama: Manderson Park Landing.
 :description: Sign,  'The University of Alabama, The Park at Manderson Landing'.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-08_park-sign
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-08_park-sign/social.jpg

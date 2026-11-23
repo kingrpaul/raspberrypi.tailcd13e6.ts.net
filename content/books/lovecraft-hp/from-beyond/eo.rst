@@ -7,7 +7,7 @@ El Pretere, Lovecraft (1921) (eo)
 :category: book
 :summary: Esperanta traduko de “From Beyond” de H.P. Lovecraft (1921).
 :description: Esperanta traduko de “From Beyond” de H.P. Lovecraft (1921).
-:tags: format:epub, format:kobo, fiction, esperanto-lingva, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_from-beyond
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/from-beyond/social.jpg

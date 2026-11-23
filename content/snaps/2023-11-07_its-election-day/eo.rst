@@ -7,7 +7,7 @@ Estas Tago de Elekto
 :category: snap
 :summary: Mi voĉdonis! Ĉu vi?
 :description: Glumarko diras "I Voted! Did You?" (Mi voĉdonis! Ĉu vi?) kun la "V" stiligita kiel ĉeko-marko.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-07_its-election-day
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-07_its-election-day/social.jpg

@@ -7,7 +7,7 @@ The Nameless City, Lovecraft (1921) (en/eo)
 :category: book
 :summary: A dual-language English-Esperanto translation of “The Nameless City” by HP Lovecraft (1921).
 :description: A dual-language English-Esperanto translation of “The Nameless City” by HP Lovecraft (1921). It lay silent and dead under the cold desert moonlight.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_the-nameless-city
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/the-nameless-city/social.jpg

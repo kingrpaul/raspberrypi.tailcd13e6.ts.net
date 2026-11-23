@@ -7,7 +7,7 @@ The Witcher 1, The Last Wish, Sapkowski (1993)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: sapkowski_the-last-wish
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/01_the-last-wish/social.jpg

@@ -7,7 +7,7 @@ David Ruffin - La Tentoj
 :category: snap
 :summary: Jen murpentrajo montranta malnovan muzikistaro, La Tentojn.
 :description: Murpentraĵo diras "Bonvenon al Meridian, Naskiĝurbo de David Ruffin - La Tentoj" montrante ĉi tiujn muzikistojn.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-22_david-ruffin-the-temptations
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-22_david-ruffin-the-temptations/social.jpg

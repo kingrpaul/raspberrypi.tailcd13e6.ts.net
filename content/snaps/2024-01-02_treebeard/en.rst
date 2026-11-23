@@ -7,7 +7,7 @@ Treebeard
 :category: snap
 :summary: A picture of trees with hanging Spanish moss also known as tree beard.
 :description: Tall picture, fog surrounds oak trees which hang with Spanish moss.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-02_treebeard
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-02_treebeard/social.jpg

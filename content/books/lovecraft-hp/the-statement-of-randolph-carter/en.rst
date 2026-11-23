@@ -7,7 +7,7 @@ The Statement of Randolph Carter, Lovecraft (1925) (en/eo)
 :category: book
 :summary: A dual-language English-Esperanto translation of “The Statement of Randolph Carter” by HP Lovecraft (1925).
 :description: A dual-language English-Esperanto translation of “The Statement of Randolph Carter” by HP Lovecraft (1925), an eldritch horror in south Florida.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_the-statement-of-randolph-carter
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/the-statement-of-randolph-carter/social.jpg

@@ -7,7 +7,7 @@ Dua Afiŝo
 :category: musing
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-09-23_second-post
 :lang: eo
 

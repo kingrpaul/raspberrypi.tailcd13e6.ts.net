@@ -7,7 +7,7 @@ Ne precize vera
 :category: snap
 :summary: 
 :description: Mia alia komputilo kostis 35 dolarojn.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-11-22_not-exactly-true
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-11-22_not-exactly-true/social.jpg

@@ -7,7 +7,7 @@ Winter Has Arrived
 :category: snap
 :summary: Due to unseasonably cold weather, there is sleet, ice, and snow on the bricks.
 :description: Snow, ice, and sleet on brick steps.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-16_winter-has-arrived
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-16_winter-has-arrived/social.jpg

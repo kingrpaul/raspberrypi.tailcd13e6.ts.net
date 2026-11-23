@@ -7,7 +7,7 @@ Dizelaj Dolĉaĵoj #8
 :category: comic
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: diesel-sweeties-0008
 :lang: eo
 

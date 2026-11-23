@@ -7,7 +7,7 @@ La Wiĉer 4, Tempo de Malestimo, Sapkowski (1995)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: quote, lang:eo
 :slug: sapkowski_time-of-contempt
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/04_time-of-contempt/social.jpg

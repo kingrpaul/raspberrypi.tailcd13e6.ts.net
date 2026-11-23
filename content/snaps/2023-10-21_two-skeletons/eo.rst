@@ -7,7 +7,7 @@ Du Skeletoj
 :category: snap
 :summary: Jen du granda skeletoj en la 'Krewe of Boo' por Haloveno 2023.
 :description: Du grandaj modelaj skeletoj vidiĝas sidantaj sur parada ĉaro dum ĝi vojaĝas laŭ strato en Nov-Orleano dum parado 'Krew of Boo'.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-21_two-skeletons
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-21_two-skeletons/social.jpg

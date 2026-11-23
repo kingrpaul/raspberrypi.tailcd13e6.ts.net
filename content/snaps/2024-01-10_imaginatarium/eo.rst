@@ -7,7 +7,7 @@ Fantaziejo
 :category: snap
 :summary: Imaginatarium (Fantaziejo) de Forrest Reiff en Metairie, Luiziano
 :description: Arta Centro David www.davidartcenter.com, mustardkolora, kun multaj desegnoj, inkluzive de hundo portanta bereton, tenanta penikon antaŭ bildstablo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-10_imaginatarium
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-10_imaginatarium/social.jpg

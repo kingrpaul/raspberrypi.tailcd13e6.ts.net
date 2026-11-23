@@ -7,7 +7,7 @@ Not Exactly True
 :category: snap
 :summary: 
 :description: My other computer cost $35.
-:tags: 
+:tags: lang:eo
 :slug: 2026-11-22_not-exactly-true
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-11-22_not-exactly-true/social.jpg

@@ -7,7 +7,7 @@ Lernu!
 :category: musing
 :summary: Mi finis Lernu!
 :description: Elefanto, flago. Gratulon. Vi sukcese kompletis la tutan kurson!
-:tags: esperanto, esperanto-lingva
+:tags: esperanto, lang:eo
 :slug: 2023-12-25_lernu
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-12-25_lernu/social.jpg

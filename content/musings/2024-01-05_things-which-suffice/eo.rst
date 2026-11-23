@@ -7,7 +7,7 @@ Aferoj Kiuj Sufiĉas
 :category: musing
 :summary: 
 :description: Ajna sufiĉe progresinta teknologio ne estas distingebla de magio. Ajna sufiĉe progresinta Photoshop ne estas distingebla de Stable Diffusion. Ajna sufiĉe nehelpema teknologio ne estas distingebla de sorĉistina malbeno.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-05_things-which-suffice
 :lang: eo
 

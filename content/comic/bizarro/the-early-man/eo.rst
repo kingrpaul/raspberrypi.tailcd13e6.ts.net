@@ -7,7 +7,7 @@ La Frua Viro de Bizarro
 :category: comic
 :summary: Kiu vi estas kaj kial vi estas ĉi tie antaŭ Dankotago?
 :description: Kiu vi estas kaj kial vi estas ĉi tie antaŭ Dankotago?
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: the-early-man
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/comic/bizarro/the-early-man/social.jpg

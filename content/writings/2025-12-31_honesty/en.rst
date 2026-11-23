@@ -7,7 +7,7 @@ Honesty
 :category: writing
 :summary: Complete honesty …
 :description: Short creative nonfiction.
-:tags: creative, nonfiction
+:tags: creative, nonfiction, lang:eo
 :slug: 2025-12-31_honesty
 :translation_id: honesty
 :lang: en

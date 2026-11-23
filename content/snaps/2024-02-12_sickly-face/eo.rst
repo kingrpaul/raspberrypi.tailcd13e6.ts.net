@@ -7,7 +7,7 @@ Malsana Vizaĝo
 :category: snap
 :summary: Ĉi tiu vizaĝo ne ŝajnas tute sana.
 :description: Kruda bildo de vizaĝo, malfermita buŝo, unu malhela okulo, desegnita per purpura ŝprucfarbo sur muro.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-02-12_sickly-face
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-12_sickly-face/social.jpg

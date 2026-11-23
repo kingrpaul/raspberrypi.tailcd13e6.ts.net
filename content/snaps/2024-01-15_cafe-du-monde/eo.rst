@@ -7,7 +7,7 @@ Café du Monde
 :category: snap
 :summary: Café du Monde, Kafo kaj Benjetoj
 :description: Café du Monde, verdaj ombreloj kaj homoj, en parko de Nov-Orleano.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-15_cafe-du-monde
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-15_cafe-du-monde/social.jpg

@@ -6,9 +6,9 @@ La Atesto de Randolfo Kartero, Lovecraft (1925) (en/eo)
 :author: pairko
 :category: book
 :summary: An eldritch horror in south Florida.
-:description: Dulingva |en-US| |eo-flag| traduko de “The Statement of Randolph Carter”  de H.P. Lovecraft (1925).
-:summary: Dulingva |en-US| |eo-flag| traduko de “The Statement of Randolph Carter”  de H.P. Lovecraft (1925), preternatura teruraĵo en suda Florido.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva, auth:lovecraft
+:description: Dulingva traduko de “The Statement of Randolph Carter”  de H.P. Lovecraft (1925).
+:summary: Dulingva traduko de “The Statement of Randolph Carter”  de H.P. Lovecraft (1925), preternatura teruraĵo en suda Florido.
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_the-statement-of-randolph-carter
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/the-statement-of-randolph-carter/social.jpg

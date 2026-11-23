@@ -7,7 +7,7 @@ La Malhela Turo 6, Kanto de Susannah, King (2003)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: king_song-of-susannah
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/6.0_song-of-susannah/social.jpg

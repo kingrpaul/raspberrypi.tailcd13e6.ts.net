@@ -7,7 +7,7 @@ Not Flowing, Nor Even Water
 :category: snap
 :summary: A painting creates the illusion that water is flowing down the alley.
 :description: Painting on the ground in an alley appears to be water from a downspout flowing along the alley.
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-04_not-flowing-nor-even-water
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-04_not-flowing-nor-even-water/social.jpg

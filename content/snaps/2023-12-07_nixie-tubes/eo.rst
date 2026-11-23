@@ -7,7 +7,7 @@ Nixie-aj Tuboj
 :category: snap
 :summary: Nixie-aj tuboj, vakutuboj uzata por montri ciferojn.
 :description: Dek unu niksie-tuboj montrataj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-07_nixie-tubes
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-07_nixie-tubes/social.jpg

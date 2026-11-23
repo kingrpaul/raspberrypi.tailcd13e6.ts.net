@@ -7,7 +7,7 @@ Suŝia Viro
 :category: snap
 :summary: Malgranda artaĵo, suŝio kun eta viro.
 :description: Skulptaĵo sur fenestrobreto, eta viro kliniĝas super suŝio kun manĝbastonetoj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-01_sushi-man
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-01_sushi-man/social.jpg

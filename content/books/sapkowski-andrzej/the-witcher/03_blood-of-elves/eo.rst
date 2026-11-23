@@ -7,7 +7,7 @@ La Wiĉer 3, Sango de Elfoj, Sapkowski (1994)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: sapkowski_blood-of-elves
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/03_blood-of-elves/social.jpg

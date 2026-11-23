@@ -7,7 +7,7 @@ Pumpkin Spice
 :category: snap
 :summary: Pumpkin? It is not a spice.
 :description: Benner's pumpkin spice tea.
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-15_pumpkin-spice
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-15_pumpkin-spice/social.jpg

@@ -7,7 +7,7 @@ The Witcher 4, Time of Contempt, Sapkowski (1995)
 :category: book
 :summary: 
 :description: 📘
-:tags: quote
+:tags: quote, lang:eo
 :slug: sapkowski_time-of-contempt
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/04_time-of-contempt/social.jpg

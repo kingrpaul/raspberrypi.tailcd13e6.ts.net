@@ -5,9 +5,9 @@ Pirate Jenny, Brecht (1928) (eo)
 :modified: 2026-10-01
 :author: pairko
 :category: book
-:summary: A translation |eo-flag| of “Seeräuber-Jenny” (Pirate Jenny) (1928).
-:description: A translation |eo-flag| of “Seeräuber-Jenny” (Pirate Jenny) (1928). From The Threepenny Opera.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction
+:summary: A translation of “Seeräuber-Jenny” (Pirate Jenny) (1928).
+:description: A translation of “Seeräuber-Jenny” (Pirate Jenny) (1928). From The Threepenny Opera.
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: brecht_pirate-jenny
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/brecht-bertold/pirate-jenny/social.jpg

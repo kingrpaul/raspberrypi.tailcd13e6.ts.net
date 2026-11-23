@@ -7,7 +7,7 @@ Duobla Birdo
 :category: snap
 :summary: Akva birdo ŝajnas esti duoble.
 :description: Akva birdo, profile turnitaj maldekstren, promenas inter la herboj, tra la malprofundaĵoj de lago kreas duoblan bildon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-02-05_double-bird
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-05_double-bird/social.jpg

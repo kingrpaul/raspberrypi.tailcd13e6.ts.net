@@ -7,7 +7,7 @@ Cat on a Car
 :category: snap
 :summary: The cat is ready to go.
 :description: An orange cat faces the camera from atop  a dark blue vehicle.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-17_cat-on-a-car
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_cat-on-a-car/social.jpg

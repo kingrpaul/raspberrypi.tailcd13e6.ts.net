@@ -7,7 +7,7 @@ Kristnasko en Biloxi
 :category: writing
 :summary: 
 :description: Mallonga krea nefikcio.
-:tags: creative, nonfiction, esperanto-lingva
+:tags: creative, nonfiction, lang:eo
 :slug: 2025-12-29_christmas-in-biloxi
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2025-12-29_christmas-in-biloxi/social.jpg

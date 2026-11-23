@@ -7,7 +7,7 @@ A True Ghost Story
 :category: writing
 :summary: 
 :description: Short creative nonfiction.
-:tags: creative, nonfiction
+:tags: creative, nonfiction, lang:eo
 :slug: 2024-10-31_a-true-ghost-story
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2024-10-31_a-true-ghost-story/social.jpg

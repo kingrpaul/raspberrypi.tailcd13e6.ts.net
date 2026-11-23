@@ -7,7 +7,7 @@ The Goal of War
 :category: musing
 :summary:
 :description:
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-24_the-goal-of-war
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-12-24_the-goal-of-war/social-en.jpg

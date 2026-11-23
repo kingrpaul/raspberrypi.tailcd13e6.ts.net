@@ -7,7 +7,7 @@ Sciuro sur la Brikoj
 :category: snap
 :summary: Sciuro portas glano.
 :description: Sciuro sur brika teraso portanta glanon en sia buŝo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-23_squirrel-on-the-bricks
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-23_squirrel-on-the-bricks/social.jpg

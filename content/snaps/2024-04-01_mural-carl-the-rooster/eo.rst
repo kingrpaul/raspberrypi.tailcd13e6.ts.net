@@ -7,7 +7,7 @@ Murpentraĵo: Carl la Virkoko
 :category: snap
 :summary: Murpentraĵo: Carl la Virkoko, Ocean Springs, Misisipio
 :description: Murpentraĵo, fiera koko sur griza konstruaĵo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-01_mural-carl-the-rooster
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-01_mural-carl-the-rooster/social.jpg

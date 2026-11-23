@@ -7,7 +7,7 @@
 :category: meme
 :summary:
 :description: Excerpt from JRK speech in 1963.
-:tags: politics
+:tags: politics, lang:eo
 :slug: 2025-12-17_what-kind-of-peace
 :translation_id: 2025-12-17_what-kind-of-peace
 :lang: en

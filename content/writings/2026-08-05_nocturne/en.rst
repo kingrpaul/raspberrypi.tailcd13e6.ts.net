@@ -7,7 +7,7 @@ Nocturne
 :category: writing
 :summary: 
 :description: On inspiration.
-:tags: creative, nonfiction
+:tags: creative, nonfiction, lang:eo
 :slug: 2026-08-05_nocturne
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2026-08-05_nocturne/social-en.jpg

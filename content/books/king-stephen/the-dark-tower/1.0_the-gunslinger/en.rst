@@ -7,7 +7,7 @@ The Dark Tower 1, The Gunslinger, King (1982)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: king_the-gunslinger
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/1.0_the-gunslinger/social.jpg

@@ -7,7 +7,7 @@ Arbobarbo
 :category: snap
 :summary: Jen bildo de arboj kun pendanta hispana musko alinome arbobarbo.
 :description: Alta bildo, nebulo ĉirkaŭas kverkojn, kiuj pendas kun hispana musko.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-02_treebeard
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-02_treebeard/social.jpg

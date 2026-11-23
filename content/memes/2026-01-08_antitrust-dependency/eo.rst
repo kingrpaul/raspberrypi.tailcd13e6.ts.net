@@ -7,7 +7,7 @@ Dependeco
 :category: meme
 :summary: 
 :description: Aŭtonoma demokratia respubliko, sen kontrolo de oligarĥoj (dependas de) kontraŭtrusta plenumo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-01-08_antitrust-dependency
 :lang: eo
 

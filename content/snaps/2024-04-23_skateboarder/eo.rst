@@ -7,7 +7,7 @@ Rultabulisto
 :category: snap
 :summary: Blokita fenestro en blankan konstruaĵon, natura spaco por strata arto montranta rultabuliston.
 :description: Jen strata arto en suda urbo montranta rultabuliston.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-23_skateboarder
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-23_skateboarder/social.jpg

@@ -7,7 +7,7 @@ La Maskerada Vido
 :category: snap
 :summary: La Maskerada Vido de Luis Hurtado en Metairie, Luiziano
 :description: Malantaŭ palmoj, muro de konstrua kovrita per murpentraĵo montras vizaĝojn portantajn maskeradaj maskojn, kiuj ŝajnas gardi la parkejon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-08_the-masquerade-view
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-08_the-masquerade-view/social.jpg

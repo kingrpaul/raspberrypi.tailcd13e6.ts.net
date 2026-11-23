@@ -7,7 +7,7 @@ Artoj kaj Distroj
 :category: snap
 :summary: Distrikto por Artaj kaj Distroj en Tuscaloosa.
 :description: Ŝildo montras la "Tuscaloosa Distrikton por Artaj kaj Distroj " havantan la komedi-dramajn teatrajn maskojn.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-10_arts-and-entertainment
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-10_arts-and-entertainment/social.jpg

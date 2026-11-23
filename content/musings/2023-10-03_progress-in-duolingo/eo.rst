@@ -7,7 +7,7 @@ Progreso en DuoLingvo
 :category: musing
 :summary: 
 :description: En DuoLingvo, mi preskaŭ duono finis. Kiu estas ĝusta: 'DuoLingo' aŭ 'DuoLingvo'?
-:tags: esperanto, esperanto-lingva
+:tags: esperanto, lang:eo
 :slug: 2023-10-03_progress-in-duolingo
 :lang: eo
 

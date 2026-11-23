@@ -7,7 +7,7 @@ Kafo
 :category: snap
 :summary: 
 :description: Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-11-17_coffee
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-11-17_coffee/social-eo.jpg

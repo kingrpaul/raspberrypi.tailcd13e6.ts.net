@@ -7,7 +7,7 @@ Avant-Garde
 :category: musing
 :summary:
 :description:
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-23_avangarda
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-12-23_avant-garde/social-en.jpg

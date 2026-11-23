@@ -7,7 +7,7 @@ Sunlumo
 :category: snap
 :summary: Sunlumo brilas tra la arbo.
 :description: Ĉiamverda arbo, kiu kaptas kaj estas lumigita de sunlumo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-17_sunlight
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_sunlight/social.jpg

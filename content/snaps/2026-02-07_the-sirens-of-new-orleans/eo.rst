@@ -7,7 +7,7 @@ La Sirenoj de Nov-Orleano
 :category: snap
 :summary: Paradado de la Sirenoj de Nov-Orleano, Karnavalo 2026, www.sirensofneworleans.com
 :description: Paraders parading as mermaids.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-02-07_the-sirens-of-new-orleans
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_the-sirens-of-new-orleans/social.jpg

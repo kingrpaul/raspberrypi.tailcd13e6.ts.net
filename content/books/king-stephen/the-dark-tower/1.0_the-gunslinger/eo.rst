@@ -7,7 +7,7 @@ La Malhela Turo 1, La Pafisto, King (1982)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: king_the-gunslinger
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/1.0_the-gunslinger/social.jpg

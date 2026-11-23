@@ -7,7 +7,7 @@ Komencis kun DuoLingo
 :category: musing
 :summary:
 :description:
-:tags: esperanto, esperanto-lingva
+:tags: esperanto, lang:eo
 :slug: 2023-09-25_started-with-duolingo
 :lang: eo
 

@@ -7,7 +7,7 @@ Muzea Kafejo
 :category: snap
 :summary: Pentraĵo, Eta Musa Kafejo
 :description: Pentraĵo, du musoj, du enirejoj Muzea Kafejo, Enirejo por Dungitaro, Nur por Dungitoj, muskaptilo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-27_museum-bistro
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-27_museum-bistro/social.jpg

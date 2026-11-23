@@ -7,7 +7,7 @@ La Malhela Turo, La Fratinetoj de Eluria, King (1998)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: king_the-little-sisters-of-eluria
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/0.5_the-little-sisters-of-eluria/social.jpg

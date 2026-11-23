@@ -7,7 +7,7 @@ Kafeja Pentraĵo
 :category: snap
 :summary: Jen pentraĵo sur la muro en kafejo, de trajno eliranta el la stacidomo.
 :description: Pentraĵo montras elirantan trajnon forlasantan modernan fervojan stacidomon. La ĉefa koloro estas kafa bruno kaj la stilo estas artdekora.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-22_cafe-painting
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-22_cafe-painting/social.jpg

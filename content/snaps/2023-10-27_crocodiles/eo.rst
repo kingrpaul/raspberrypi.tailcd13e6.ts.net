@@ -7,7 +7,7 @@ Krokodiloj?
 :category: snap
 :summary: Latunaj reptilioj. Krokodiloj? Pli verŝajne aligatoroj.
 :description: Du latunaj pordoteniloj formitaj kiel aligatoroj aŭ krokodiloj sur lignaj pordoj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-27_crocodiles
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-27_crocodiles/social.jpg

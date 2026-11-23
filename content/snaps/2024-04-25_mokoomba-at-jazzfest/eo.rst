@@ -7,7 +7,7 @@ Mokoomba (Mokŭmbo)
 :category: snap
 :summary: Mokoomba (Mokŭmbo), bando de Zimbabvo, ludante ĉe ĴazFesto 2024 en Nov-Orleano.
 :description: Mokoomba (Mokŭmbo), bando de Zimbabvo, ludante ĉe ĴazFesto 2024 en Nov-Orleano.
-:tags: snap,  esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-25_mokoomba-at-jazzfest
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-25_mokoomba-at-jazzfest/social.jpg

@@ -7,7 +7,7 @@ Nixie Tubes
 :category: snap
 :summary: Nixie tubes, vacuum tubes used to display numbers.
 :description: Eleven nixie tubes displayed.
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-07_nixie-tubes
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-07_nixie-tubes/social.jpg

@@ -7,7 +7,7 @@ Airport Cappuccino
 :category: snap
 :summary: Sign: cup of cappuccino.
 :description: A sign at Louis Armstrong International Airport in New Orleans shows a cappuccino.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-06_airport-cappuccino
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-06_airport-cappuccino/social.jpg

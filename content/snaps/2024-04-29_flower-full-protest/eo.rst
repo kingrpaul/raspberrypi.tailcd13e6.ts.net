@@ -7,7 +7,7 @@ Florplena Protesto
 :category: snap
 :summary: Strata arto: protestanto ŝirmita per plasto kontraŭ grafitio kaj ĉirkaŭita de pentritaj floroj.
 :description: Loĝejo en Nov-Orleano, kovrita per flora murpentraĵo krom malgranda pli malnova pentraĵo de maskita protestanto portanta ŝildon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-29_flower-full-protest
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-29_flower-full-protest/social.jpg

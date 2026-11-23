@@ -7,7 +7,7 @@ Stone D. Barefield Tunnel
 :category: snap
 :summary: Tunnel under the street, decorated with paintings.
 :description: A tunnel that goes under a street. On the front, a mural shows a cardinal, flowers, and other animals.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-17_stone-d-barefield-tunnel
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_stone-d-barefield-tunnel/social.jpg

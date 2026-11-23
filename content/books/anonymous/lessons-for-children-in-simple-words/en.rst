@@ -7,7 +7,7 @@ Nursery Lessons, in Words of One Syllable (1838) (eo)
 :category: book
 :summary: A Esperanto translation of “Nursery Lessons, in Words of One Syllable” (1838).
 :description: A Esperanto translation of “Nursery Lessons, in Words of One Syllable” (1838). An easy reader for beginners.
-:tags: format:epub, format:kobo, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, lang:eo
 :slug: anonymous_lessons-for-children-in-simple-words
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/anonymous/lessons-for-children-in-simple-words/social.jpg

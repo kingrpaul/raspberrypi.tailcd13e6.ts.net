@@ -7,7 +7,7 @@ Akvoturo
 :category: snap
 :summary: Akvoturo aspektas kiel plaĝpilko.
 :description: Akvoturo ĉe Pensakola-strando, kiu similas plaĝpilkon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-18_water-tower
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-18_water-tower/social.jpg

@@ -7,7 +7,7 @@
 :category: musing
 :summary: Duolinvo prezentas, ke 'ĉiuj vi' signifas 'you all.' En la angla de la suda Usono, ni diras 'y-all.' Do, se 'ĉiuj vi' signifas 'y-all,' tiam 'ĉiuj vi ĉiuj' devus signifi 'all y-all' sed verŝajne ĝi ne signifas tiel.
 :description: Duolinvo prezentas, ke 'ĉiuj vi' signifas 'you all.' En la angla de la suda Usono, ni diras 'y-all.' Do, se 'ĉiuj vi' signifas 'y-all,' tiam 'ĉiuj vi ĉiuj' devus signifi 'all y-all' sed verŝajne ĝi ne signifas tiel.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-02_you-all
 :lang: eo
 

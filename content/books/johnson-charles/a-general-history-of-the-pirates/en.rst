@@ -7,7 +7,7 @@ A General History of the Pirates, Johnson (1724)
 :category: book
 :summary: In the 18th century, daring outlaws terrorized the Atlantic Ocean and Caribbean Sea.
 :description: In the 18th century, daring outlaws terrorized the Atlantic Ocean and Caribbean Sea.
-:tags: pub:standard-ebooks, quote
+:tags: pub:standard-ebooks, quote, lang:eo
 :slug: johnson_a-general-history-of-the-pirates
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/johnson-charles/a-general-history-of-the-pirates/social.jpg

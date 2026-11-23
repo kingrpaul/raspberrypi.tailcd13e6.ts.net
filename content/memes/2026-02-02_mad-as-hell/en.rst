@@ -7,7 +7,7 @@
 :category: meme
 :summary: "Mad as Hell" Speech, Network (1976)
 :description: "Mad as Hell" Speech, Network (1976)
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-02_mad-as-hell
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/memes/2026-02-02_mad-as-hell/social.jpg

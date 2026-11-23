@@ -7,7 +7,7 @@ Montetoj Kiel Blankaj Elefantoj, Hemingway (1927) (eo)
 :category: book
 :summary: Esperanta traduko de “Hills Like White Elephants” de Ernest Hemingway (1927).
 :description: Esperanta traduko de “Hills Like White Elephants” de Ernest Hemingway (1927). Rakonto pri la Perdita Generacio de Usono, en Eŭropo kiu, kiel tiom da bonaj rakontoj, okazas ĉe vojkruciĝo.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: hemingway_hills-like-white-elephants
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/hemingway-ernest/hills-like-white-elephants/social.jpg

@@ -7,7 +7,7 @@ Prezoj Eble Ŝanĝiĝos
 :category: snap
 :summary: Prezaj ŝanĝoj malverŝajne estos malsupren.
 :description: Statuo de mariaĉo tenanta marakojn, ŝildo diras 'Prezoj eble ŝanĝiĝos.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-04-15_prices-may-change
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-04-15_prices-may-change/social.jpg

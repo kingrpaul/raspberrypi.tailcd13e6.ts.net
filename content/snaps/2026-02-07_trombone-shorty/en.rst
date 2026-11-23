@@ -7,7 +7,7 @@ Trombone Shorty
 :category: snap
 :summary: Trombone Shorty Mardi Gras 2026 float, www.tromboneshorty.com.
 :description: Representation of a man playing his trombone.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-07_trombone-shorty
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_trombone-shorty/social.jpg

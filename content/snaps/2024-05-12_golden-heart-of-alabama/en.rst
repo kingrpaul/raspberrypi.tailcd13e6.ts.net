@@ -7,7 +7,7 @@ Golden Heart of Alabama
 :category: snap
 :summary: Mural that shows a Heart of Gold.
 :description: A mural shows the words 'Heart of Gold', the word 'gold' is gold colored and the 'O' is replaced by a human heart.
-:tags: 
+:tags: lang:eo
 :slug: 2024-05-12_golden-heart-of-alabama
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-05-12_golden-heart-of-alabama/social.jpg

@@ -7,7 +7,7 @@ The Witcher 7, The Lady of the Lake, Sapkowski (1999)
 :category: book
 :summary: 
 :description: 📘
-:tags: quote
+:tags: quote, lang:eo
 :slug: sapkowski_the-lady-of-the-lake
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/07_the-lady-of-the-lake/social.jpg

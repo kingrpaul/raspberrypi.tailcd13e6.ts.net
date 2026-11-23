@@ -7,7 +7,7 @@ Saluton, Mondo!
 :category: musing
 :summary: 👋
 :description: Hello World, traditional initial message. 
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-11-20_hello-world
 :lang: eo
 

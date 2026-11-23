@@ -7,7 +7,7 @@ Sunsubiro
 :category: snap
 :summary: Jen sunsubiro kiel oni vidas de restoracio en benzina vendejo.
 :description: Sunsubiro vidita en la distanco de parkejo de benzinejo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-30_sunset
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-30_sunset/social.jpg

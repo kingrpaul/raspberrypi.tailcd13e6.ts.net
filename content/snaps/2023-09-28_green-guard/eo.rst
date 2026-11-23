@@ -7,7 +7,7 @@ Verda Gardo
 :category: snap
 :summary: Lacerto gardanta gombon.
 :description: Verda anolo ripozas sur gomboplanto ŝajne gardi la gombofrukton.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-09-28_green-guard
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-28_green-guard/social.jpg

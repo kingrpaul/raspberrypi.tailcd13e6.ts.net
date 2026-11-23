@@ -7,7 +7,7 @@ Murpentraĵo de Pripensado
 :category: snap
 :summary: Murpentraĵo: MLK Pripensanta
 :description: Murpentraĵo, flanke de strato en Nov-Orleano.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-11_mural-of-contemplation
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-11_mural-of-contemplation/social.jpg

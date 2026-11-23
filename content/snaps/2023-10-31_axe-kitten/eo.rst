@@ -7,7 +7,7 @@ Hakila Katido
 :category: snap
 :summary: Kiam en Hattiesburg, atentu en stratetoj por katoj kun hakiloj!
 :description: Murpentraĵo sur brika muro reklamanta la Alley Cats Axe Throwing Company kaj prezentanta nigran katidon kun grandaj okuloj tenante hakilon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-31_axe-kitten
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-31_axe-kitten/social.jpg

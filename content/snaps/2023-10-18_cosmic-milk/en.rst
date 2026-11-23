@@ -7,7 +7,7 @@ Cosmic Milk
 :category: snap
 :summary: Sign on the sidewalk advertises the Moonshot Creamery showing a UFO seeming to pull up an inverted ice cream cone.
 :description: Cows are not from the moon... from outer space.
-:tags: 
+:tags: lang:eo
 :slug: 2023-10-18_cosmic-milk
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-18_cosmic-milk/social.jpg

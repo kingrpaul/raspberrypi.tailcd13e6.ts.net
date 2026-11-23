@@ -7,7 +7,7 @@ Mendu Ĉi Tie
 :category: snap
 :summary: Ĉi tie vi povas trovi ege bongustan salikokan malriĉulsandviĉon.
 :description: Mendejo de Marfrukta Ekspreso, virino atendas mendojn, sub ŝildo kiu diras Mendu Ĉi Tie.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-03_order-here
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-03_order-here/social.jpg

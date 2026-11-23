@@ -7,7 +7,7 @@ La Firmao de la Kato Kiu Pilkludas, Balzac (1830) (eo)
 :category: book
 :summary: Esperanta traduko de Paul Benoit de “The House of the Cat and Racket” de Honoré de Balzac (1921).
 :description: Esperanta traduko de Paul Benoit de “The House of the Cat and Racket” de Honoré de Balzac (1921). La kato ludas, la geedzoj suferas en la 19-a-jarcenta Parizo.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: balzac_the-house-of-the-cat-and-racket
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/balzac-honore/the-house-of-the-cat-and-racket/social.jpg

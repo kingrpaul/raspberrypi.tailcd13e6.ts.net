@@ -7,7 +7,7 @@ The Hub of Mississippi
 :category: snap
 :summary:
 :description:
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-01_the-hub-of-mississippi
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-01_the-hub-of-mississippi/social.jpg

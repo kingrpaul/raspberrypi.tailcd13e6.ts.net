@@ -7,7 +7,7 @@ Pirato Ĵenifro, Brecht (1928) (eo)
 :category: book
 :summary: Esperanta traduko de “Seeräuber-Jenny” (Pirate Jenny) (1928).
 :description: Esperanta traduko de “Seeräuber-Jenny” (Pirate Jenny) (1928). De "The Threepenny Opera".
-:tags: format:epub, format:kobo, fiction, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: brecht_pirate-jenny
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/brecht-bertold/pirate-jenny/social.jpg

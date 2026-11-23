@@ -7,7 +7,7 @@ The Laughter of Courage, Blackwood (1924)
 :category: book
 :summary: A dual-language English-Esperanto translation of “The Laughter of Courage” by Algernon Blackwood  (1924).
 :description: A dual-language English-Esperanto translation of “The Laughter of Courage” by Algernon Blackwood  (1924). An unexpected inspiration at the cinema.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_the-laughter-of-courage
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/the-laughter-of-courage/social.jpg

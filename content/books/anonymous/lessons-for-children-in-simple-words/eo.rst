@@ -7,7 +7,7 @@ Lecionoj por Infanoj, en Simplaj Vortoj (1838) (eo)
 :category: book
 :summary: Esperanta traduko de “Nursery Lessons, in Words of One Syllable” (1838).
 :description: Esperanta traduko de “Nursery Lessons, in Words of One Syllable” (1838). Facila legilo por komencantoj.
-:tags: format:epub, format:kobo, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, lang:eo
 :slug: anonymous_lessons-for-children-in-simple-words
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/anonymous/lessons-for-children-in-simple-words/social.jpg

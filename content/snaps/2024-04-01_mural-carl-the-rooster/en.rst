@@ -7,7 +7,7 @@ Mural: Carl the Rooster
 :category: snap
 :summary: Mural: Carl the Rooster, Ocean Springs, Mississippi
 :description: Mural, a proud rooster on a gray building.
-:tags: 
+:tags: lang:eo
 :slug: 2024-04-01_mural-carl-the-rooster
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-01_mural-carl-the-rooster/social.jpg

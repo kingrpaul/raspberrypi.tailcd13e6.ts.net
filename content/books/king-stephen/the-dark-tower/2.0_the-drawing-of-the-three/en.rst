@@ -7,7 +7,7 @@ The Dark Tower 2, The Drawing of the Three, King (1987)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: king_the-drawing-of-the-three
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/2.0_the-drawing-of-the-three/social.jpg

@@ -7,7 +7,7 @@ Jimmy Rodgers, The Yodeling Brakeman
 :category: snap
 :summary: The painting on the wall says that Jimmy Rodgers was the father of country music.
 :description: The painting on the wall says that Jimmy Rodgers was the father of country music.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-17_jimmy-rodgers-the-yodeling-brakeman
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_jimmy-rodgers-the-yodeling-brakeman/social.jpg

@@ -7,7 +7,7 @@ Riverwalk
 :category: snap
 :summary: This riverwalk is located along the Black Warrior River, near the University of Alabama.
 :description: A brass sign on a pillar marks the UA Riverwalk.
-:tags: 
+:tags: lang:eo
 :slug: 2023-10-17_riverwalk
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-17_riverwalk/social.jpg

@@ -7,7 +7,7 @@
 :category: snap
 :summary: Estas ŝarkoj in la bovlo de kato por akvo.
 :description: Skulptaĵo farita el dorlotbesto-bovlo markita por akvo, en kiu rondirantaj ŝarkoj ŝajnas naĝi.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-09_sharks
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-09_sharks/social.jpg

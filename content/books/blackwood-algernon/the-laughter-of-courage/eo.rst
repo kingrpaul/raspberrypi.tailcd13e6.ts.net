@@ -7,12 +7,10 @@ Sentima Ridado, Blackwood (1924)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “The Laughter of Courage” de Algernon Blackwood  (1924).
 :description: Dulingva angla-Esperanta traduko de “The Laughter of Courage” de Algernon Blackwood  (1924). Neatindita inspiriteco en la kinejo.
-:tags: format:epub, format:kobo, fiction, auth:blackwood, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_the-laughter-of-courage
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/the-laughter-of-courage/social.jpg
-
-
 
 .. include:: ../../../extra/snippets.inc
 

@@ -7,7 +7,7 @@ Dagon, Lovecraft (1922)
 :category: book
 :summary: El profundo Dagon leviĝas⁠—⁠Kie liaj anoj ne plu vivas⁠—⁠Peĉe perditulo lin ekvidas⁠—⁠Sekve li tuj freneziĝas
 :description: Dulingva traduko de Dagon.
-:tags: fiction, esperanto-lingva, auth:lovecraft
+:tags: fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_dagon
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/dagon/social.jpg

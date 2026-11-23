@@ -7,7 +7,7 @@ Abelo kaj Bazilio
 :category: snap
 :summary: Abelo promenas sur floron de bazilio.
 :description: Abelo promenas super florkapsulo, kiu nur ĵus komencas flori.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-09-26_bee-and-basil
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-26_bee-and-basil/social.jpg

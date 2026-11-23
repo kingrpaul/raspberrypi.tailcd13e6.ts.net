@@ -7,7 +7,7 @@ The Great God Pan, Machen (1894)
 :category: book
 :summary: 
 :description: Book review.
-:tags: review
+:tags: review, lang:eo
 :slug: machen_the-great-god-pan
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/machen-arthur/the-great-god-pan/social.jpg

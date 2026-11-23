@@ -7,7 +7,7 @@ Lernu!
 :category: musing
 :summary: I finished Lernu!
 :description: Elephant, flag. Congratulations. You successfully passed the whole course!
-:tags: esperanto
+:tags: esperanto, lang:eo
 :slug: 2023-12-25_lernu
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-12-25_lernu/social.jpg

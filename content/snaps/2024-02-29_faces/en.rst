@@ -7,7 +7,7 @@ Faces
 :category: snap
 :summary: Mural, George E. Ohr, Biloxi, Mississippi by Zach DePolo www.zachdepolo.art, The Mad Potter of Biloxi
 :description: Drawn faces at Mary Mahoney's.
-:tags: 
+:tags: lang:eo
 :slug: 2024-02-29_faces
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-29_faces/social.jpg

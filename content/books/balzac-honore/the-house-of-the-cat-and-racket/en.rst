@@ -7,7 +7,7 @@ The House of the Cat and Racket, Balzac (1830) (eo)
 :category: book
 :summary: An Esperanto translation by Paul Benoit of “The House of the Cat and Racket” by Honoré de Balzac (1921).
 :description: An Esperanto  translation by Paul Benoit of “The House of the Cat and Racket” by Honoré de Balzac (1921). The cat plays, the couple suffers in 19th-century Paris.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: balzac_the-house-of-the-cat-and-racket
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/balzac-honore/the-house-of-the-cat-and-racket/social.jpg

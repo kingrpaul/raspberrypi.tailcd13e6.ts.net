@@ -7,7 +7,7 @@ La Sennoma Urbo, Lovecraft (1921) (en/eo)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “The Nameless City”  de H.P. Lovecraft (1921).
 :description: Dulingva angla-Esperanta traduko de “The Nameless City”  de H.P. Lovecraft (1921). Ĝi kuŝis silente kaj morte sub la malvarma dezerto lunlumo.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_the-nameless-city
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/the-nameless-city/social.jpg

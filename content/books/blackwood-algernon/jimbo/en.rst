@@ -7,7 +7,7 @@ Jimbo, Blackwood (1909)
 :category: book
 :summary: In this novel, the author recounts a story in the life of the young boy Jimbo. 
 :description: In this novel, the author recounts a story in the life of the young boy Jimbo. If the story has a message, it is that adults have a duty to protect and fortify the souls of children.
-:tags: format:epub, format:kobo, fiction, transcription, review, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, fiction, transcription, review, auth:blackwood
 :slug: blackwood_jimbo
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/jimbo/social.jpg

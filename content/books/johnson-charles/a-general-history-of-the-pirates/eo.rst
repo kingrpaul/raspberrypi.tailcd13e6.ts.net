@@ -6,13 +6,11 @@
 :author: pairko
 :category: book
 :summary: Dum la 18-a jarcento, aŭdacaj banditoj teroris la Atlantikon kaj la Kariban Maron.
-:description: ADum la 18-a jarcento, aŭdacaj banditoj teroris la Atlantikon kaj la Kariban Maron.
-:tags: quote, esperanto-lingva, pub:standard-ebooks
+:description: Dum la 18-a jarcento, aŭdacaj banditoj teroris la Atlantikon kaj la Kariban Maron.
+:tags: pub:standard-ebooks, quote, lang:eo
 :slug: johnson_a-general-history-of-the-pirates
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/johnson-charles/a-general-history-of-the-pirates/social.jpg
-
-
 
 .. include:: ../../../extra/snippets.inc
 

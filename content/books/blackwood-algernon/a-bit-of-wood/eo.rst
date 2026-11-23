@@ -7,7 +7,7 @@ Eto el Ligno, Blackwood (1914)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “A Bit of Wood” de Algernon Blackwood (1914).
 :description: Dulingva angla-Esperanta traduko de “A Bit of Wood” de Algernon Blackwood (1914). Trivialaĵoj eble gravas.
-:tags: format:epub, format:kobo, fiction, auth:blackwood, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_a-bit-of-wood
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/a-bit-of-wood/social.jpg

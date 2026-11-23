@@ -7,7 +7,7 @@ La Golo de Milito
 :category: musing
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-24_the-goal-of-war
 :lang: eo
 

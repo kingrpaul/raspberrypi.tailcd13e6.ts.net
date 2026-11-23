@@ -7,7 +7,7 @@ Pentraĵo de Manĝantoj
 :category: snap
 :summary: Jen pentrajo de manĝantoj kiuj ŝajnas esti interne la restoracio.
 :description: Pentraĵo laŭ la muro de enveturejo, tiel ke manĝantoj ŝajnas esti videblaj tra la fenestroj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-02-17_painting-of-diners
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-17_painting-of-diners/social.jpg

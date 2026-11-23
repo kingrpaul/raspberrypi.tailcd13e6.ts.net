@@ -7,7 +7,7 @@ Njarlatotepo, Lovecraft (1920) (en/eo)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “Nyarlathotep” de H.P. Lovecraft (1920).
 :description: Dulingva angla-Esperanta traduko de “Nyarlathotep” de H.P. Lovecraft (1920). Spektaklulo kaj la frenezo de homamasoj.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_nyarlathotep
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/nyarlathotep/social.jpg

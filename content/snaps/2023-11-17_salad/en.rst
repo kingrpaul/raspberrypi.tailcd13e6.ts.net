@@ -7,7 +7,7 @@ Salad
 :category: snap
 :summary: A delicious salad of avocados and tomatoes with olive oil and black pepper.
 :description: A salad of avocado and tomato with olive oil and black pepper.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-17_salad
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-17_salad/social.jpg

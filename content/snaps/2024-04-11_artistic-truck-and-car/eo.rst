@@ -7,7 +7,7 @@ Artistaj Kamiono kaj Aŭto
 :category: snap
 :summary: Vojaĝanta arto de Art 120, www.art120.org
 :description: Kamiono kaj aŭto, kovritaj per artaĵo, pentritaj, buntaj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-11_artistic-truck-and-car
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-11_artistic-truck-and-car/social.jpg

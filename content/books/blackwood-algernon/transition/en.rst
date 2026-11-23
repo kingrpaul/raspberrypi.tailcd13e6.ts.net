@@ -7,7 +7,7 @@ Transition, Blackwood (1913)
 :category: book
 :summary: A dual-language English-Esperanto translation of “Transition” by Algernon Blackwood  (1913).
 :description: A dual-language English-Esperanto translation of “Transition” by Algernon Blackwood  (1913). A Christmas ghost story.
-:tags: format:epub, format:kobo, esperanto-lingva, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, auth:blackwood, lang:eo
 :slug: blackwood_transition
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/transition/social.jpg

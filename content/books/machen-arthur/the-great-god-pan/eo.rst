@@ -7,7 +7,7 @@ La Granda Dio Pajno, Machen (1894)
 :category: book
 :summary: 
 :description: Book review.
-:tags: review, esperanto-lingva
+:tags: review, lang:eo
 :slug: machen_the-great-god-pan
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/machen-arthur/the-great-god-pan/social.jpg

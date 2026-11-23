@@ -7,7 +7,7 @@ Loot Wall $treet
 :category: snap
 :summary: Water meter cover art by 'LeLuna Street Art' of New Orleans.
 :description: Water meter cover, painted pink and green, with text, signed.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-08_loot-wall-street
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-08_loot-wall-street/social.jpg

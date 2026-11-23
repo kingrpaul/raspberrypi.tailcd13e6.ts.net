@@ -7,7 +7,7 @@ Dolĉa Hejmo, Alabamo
 :category: snap
 :summary: Dolĉa hejmo Alabamo … kie la ĉielo estas tiel blua.
 :description: Murpentraĵo montras "Sweet Home Alabama" (Dolĉa Hejmo Alabamo) kun granda papilio kaj floro.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-05-13_sweet-home-alabama
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-05-13_sweet-home-alabama/social.jpg

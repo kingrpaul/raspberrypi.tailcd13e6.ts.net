@@ -7,7 +7,7 @@ Paradantaj Astakoj
 :category: snap
 :summary: Astakoj paradantaj super domoj, trans la ĉielo en Nov-Orleano de Madison Roy www.indigomadness.com.
 :description: Murpentraĵo, astakoj paradantaj, kun muziko super buntaj domoj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-04-27_parading-crawfish
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-27_parading-crawfish/social.jpg

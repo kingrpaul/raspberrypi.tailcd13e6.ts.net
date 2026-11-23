@@ -7,7 +7,7 @@ La Birdo
 :category: snap
 :summary: Birdo trovas akvon por trinki.
 :description: Bruna birdo sidis sur la rando de blanka sitelo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-12_the-bird
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-12_the-bird/social.jpg

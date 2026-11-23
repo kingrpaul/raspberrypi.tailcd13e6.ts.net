@@ -7,7 +7,7 @@ The Hanging Stranger, PK Dick (1953) (en/eo)
 :category: book
 :summary: A dual-language English-Esperanto translation of “The Hanging Stranger” by Philip K. Dick (1953).
 :description: A dual-language English-Esperanto translation of “The Hanging Stranger” by Philip K. Dick (1953). Why does no one see him?
-:tags: format:epub, format:kobo, esperanto-lingva, fiction
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: dick_the-hanging-stranger
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/dick-philip/the-hanging-stranger/social.jpg

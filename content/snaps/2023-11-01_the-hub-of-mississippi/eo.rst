@@ -7,7 +7,7 @@ La Nabo de Misisipio
 :category: snap
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-01_the-hub-of-mississippi
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-01_the-hub-of-mississippi/social.jpg

@@ -7,7 +7,7 @@ The Dark Tower 5, Wolves of the Calla, King (2003)
 :category: book
 :summary: 
 :description: ⸻
-:tags: quote
+:tags: quote, lang:eo
 :slug: king_wolves-of-the-calla
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/5.0_wolves-of-the-calla/social.jpg

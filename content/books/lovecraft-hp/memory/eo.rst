@@ -6,8 +6,8 @@ Memoro, Lovecraft (1923) (en/eo)
 :author: pairko
 :category: book
 :summary: Dulingva  la angla-Esperanta traduko de “Memory”  de H.P. Lovecraft (1923).
-:description: Dulingva  la angla-Esperanta traduko de “Memory”  de H.P. Lovecraft (1923). La ĝino ne rememoras.
-:tags: format:epub, format:kobo, fiction, esperanto-lingva, auth:lovecraft
+:description: Dulingva la angla-Esperanta traduko de “Memory”  de H.P. Lovecraft (1923). La ĝino ne rememoras.
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo, auth:lovecraft
 :slug: lovecraft_memory
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/memory/social.jpg

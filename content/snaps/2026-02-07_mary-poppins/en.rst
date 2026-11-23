@@ -7,7 +7,7 @@ Mary Poppins
 :category: snap
 :summary: Mary Poppins Parade Float, Mardi Gras 2026
 :description: Parade float with a representation of woman with a red hat and umbrella.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-07_mary-poppins
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_mary-poppins/social.jpg

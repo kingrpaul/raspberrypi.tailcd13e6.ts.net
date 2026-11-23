@@ -7,7 +7,7 @@ The Dark Tower, The Little Sisters of Eluria, King (1998)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: king_the-little-sisters-of-eluria
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/0.5_the-little-sisters-of-eluria/social.jpg

@@ -7,7 +7,7 @@ Trashcan Painting: Carl the Rooster
 :category: snap
 :summary: Trashcan Painting: Carl the Rooster, Ocean Springs, Mississippi
 :description: A blue trash can painted with a picture of a rooster.
-:tags: 
+:tags: lang:eo
 :slug: 2024-04-03_trashcan-painting-carl-the-rooster
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-03_trashcan-painting-carl-the-rooster/social.jpg

@@ -8,7 +8,7 @@ En la Pinarbaro (en/eo)
 :summary: Esperanta traduko de "In the Pines", 19-a jarcenta usona popolkanto, kantita de Leadbelly (Plumboventro) kaj Kurt Cobain.
 :description: Esperanta traduko de "In the Pines", 19-a jarcenta usona popolkanto, kantita de Leadbelly (Plumboventro) kaj Kurt Cobain.
 :summary: Usona popolkanto, kantita de Leadbelly (Plumboventro) kaj Kurt Cobain.
-:tags: format:epub, format:kobo, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, lang:eo
 :slug: anonymous_in-the-pines
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/anonymous/in-the-pines/social.jpg

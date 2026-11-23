@@ -7,7 +7,7 @@ Memory, Lovecraft (1923) (en/eo)
 :category: book
 :summary: A dual-language English-Esperanto translation of “Memory” by HP Lovecraft (1923).
 :description: A dual-language English-Esperanto translation of “Memory” by HP Lovecraft (1923). The genie does not remember.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_memory
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/memory/social.jpg

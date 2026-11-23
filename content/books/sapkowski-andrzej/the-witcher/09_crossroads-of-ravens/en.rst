@@ -7,7 +7,7 @@ The Witcher 9, Crossroads of Ravens, Sapkowski (2024)
 :category: book
 :summary: 
 :description: Book review.
-:tags: review
+:tags: review, lang:eo
 :slug: sapkowski_crossroads-of-ravens
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/09_crossroads-of-ravens/social.jpg

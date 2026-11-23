@@ -7,7 +7,7 @@ Sweet Home Alabama
 :category: snap
 :summary: Sweet home Alabama … where the skies are so blue.
 :description: Mural shows "Sweet Home Alabama" with a large butterfly and flower.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-05-13_sweet-home-alabama
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-05-13_sweet-home-alabama/social.jpg

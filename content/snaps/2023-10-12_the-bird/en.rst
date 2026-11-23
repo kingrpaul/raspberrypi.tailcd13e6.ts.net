@@ -7,7 +7,7 @@ The Bird
 :category: snap
 :summary: A bird finds water to drink.
 :description: Brown bird is perched on the edge of a white bucket.
-:tags: 
+:tags: lang:eo
 :slug: 2023-10-12_the-bird
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-12_the-bird/social.jpg

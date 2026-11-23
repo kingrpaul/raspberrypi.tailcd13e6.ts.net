@@ -7,7 +7,7 @@ Nokturno
 :category: writing
 :summary: 
 :description: Pri inspiro.
-:tags: creative, nonfiction, esperanto-lingva
+:tags: creative, nonfiction, lang:eo
 :slug: 2026-08-05_nocturne
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2026-08-05_nocturne/social-eo.jpg

@@ -7,7 +7,7 @@ Septembro
 :category: musing
 :summary: Estas matene en septembro. La suno brilas. Estas ankoraŭ varmeta. La folioj komensas fali.
 :description: Estas matene en septembro. La suno brilas. Estas ankoraŭ varmeta. La folioj komensas fali.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-09-26_september
 :lang: eo
 

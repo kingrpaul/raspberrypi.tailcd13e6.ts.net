@@ -7,7 +7,7 @@ The Dance of Death, Blackwood (1907)
 :category: book
 :summary: A dual-language English-Esperanto translation of “The Dance of Death” by Algernon Blackwood (1907).
 :description: A dual-language English-Esperanto translation of “The Dance of Death” by Algernon Blackwood (1907). Meeting an anthropomorphic personification.
-:tags: format:epub, format:kobo, fiction, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_the-dance-of-death
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/the-dance-of-death/social.jpg

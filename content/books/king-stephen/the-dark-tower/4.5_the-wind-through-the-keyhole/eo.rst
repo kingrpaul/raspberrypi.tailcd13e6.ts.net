@@ -7,11 +7,17 @@ La Malhela Turo, La Vento Tra la Ŝlosiltruo, King (2012)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: review, quote, lang:eo
 :slug: king_the-wind-through-the-keyhole
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/4.5_the-wind-through-the-keyhole/social.jpg
 
+.. include:: ../../../../extra/snippets.inc
+
 .. image:: /books/king-stephen/the-dark-tower/4.5_the-wind-through-the-keyhole/cover.jpg
    :width: 8em
    :alt: book cover
+
+🚫 Goodreads |br|
+🚫 Hardcover |br|
+🚫 Bookwyrm |br|

@@ -7,7 +7,7 @@ Spillway
 :category: snap
 :summary: Lake spillway with a footpath over it.
 :description: Lake spillway over which passes a foot-path.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-24_spillway
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-24_spillway/social.jpg

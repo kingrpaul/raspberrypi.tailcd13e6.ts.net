@@ -7,7 +7,7 @@ Ardeo en Misisipo
 :category: snap
 :summary: Ardeo staranta en lago.
 :description: Ardeo staranta en malprofundaĵo de lago.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-24_heron-in-mississippi
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-24_heron-in-mississippi/social.jpg

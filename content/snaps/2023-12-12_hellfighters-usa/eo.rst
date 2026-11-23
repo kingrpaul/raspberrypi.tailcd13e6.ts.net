@@ -7,7 +7,7 @@ Inferbatalistoj, Usono
 :category: snap
 :summary: Inferbatalistoj, Usono
 :description: Malgranda sako montras motorciklan vendejon kaj "Hellfighters USA (Inferbatalistoj, Usono), La plej unika motorcikla vendejo oriente de la Misisipo" (reviziita por diri) "Pacifiko".
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-12_hellfighters-usa
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-12_hellfighters-usa/social.jpg

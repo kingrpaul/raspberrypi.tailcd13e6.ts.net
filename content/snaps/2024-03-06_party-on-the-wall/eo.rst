@@ -7,7 +7,7 @@ Festo sur la Muro
 :category: snap
 :summary: Murpentraĵo, 406 Klubo, Biloxi, Misisipo de Niko
 :description: Mural, people gathered in a bar.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-03-06_party-on-the-wall
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-03-06_party-on-the-wall/social.jpg

@@ -7,7 +7,7 @@ Sciuro sur la Tero
 :category: snap
 :summary: Fotanto havas la atenton de sciuro.
 :description: Sciuro sur la tero inter folioj, sidante rekte rigardante en la fotilon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-16_squirrel-on-the-ground
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-16_squirrel-on-the-ground/social.jpg

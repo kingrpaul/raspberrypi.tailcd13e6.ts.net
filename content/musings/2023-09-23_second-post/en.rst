@@ -7,7 +7,7 @@ Second Post
 :category: musing
 :summary:
 :description:
-:tags: 
+:tags: lang:eo
 :slug: 2023-09-23_second-post
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-09-23_second-post/social-en.jpg

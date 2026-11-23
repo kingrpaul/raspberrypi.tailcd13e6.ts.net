@@ -7,7 +7,7 @@ The Dark Tower, The Wind Through the Keyhole, King (2012)
 :category: book
 :summary: 
 :description: 📘
-:tags: review, quote
+:tags: review, quote, lang:eo
 :slug: king_the-wind-through-the-keyhole
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/4.5_the-wind-through-the-keyhole/social.jpg

@@ -7,7 +7,7 @@ Malgranda Urbo
 :category: snap
 :summary: Vido de supre el malgranda urbo en Misisipio.
 :description: Konstruaĵoj, parkejo, aŭtoj, montetoj pretere.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-13_small-city
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-13_small-city/social.jpg

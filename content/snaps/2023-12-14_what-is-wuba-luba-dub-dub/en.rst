@@ -7,7 +7,7 @@ What is 'Wuba-Luba Dub-Dub'?
 :category: snap
 :summary: A face on a sticker talks nonsense.
 :description: A sticker on a wall shows a drawn face from 'Rick and Morty', Wuba-Luba Dub-Dub.
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-14_what-is-wuba-luba-dub-dub
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-14_what-is-wuba-luba-dub-dub/social.jpg

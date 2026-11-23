@@ -7,7 +7,7 @@ Café du Monde
 :category: snap
 :summary: Café du Monde, Coffee and Beignets
 :description: Café du Monde, green umbrellas and people, in a New Orleans park.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-15_cafe-du-monde
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-15_cafe-du-monde/social.jpg

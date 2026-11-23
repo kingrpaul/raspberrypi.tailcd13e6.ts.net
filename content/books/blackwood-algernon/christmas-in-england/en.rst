@@ -7,7 +7,7 @@ Christmas in England, Blackwood (1890)
 :category: book
 :summary: A dual-language English-Esperanto translation of “Christmas in England” by Algernon Blackwood (1890).
 :description: A dual-language English-Esperanto translation of “Christmas in England” by Algernon Blackwood (1890). Describes old-fashioned English Christmas customs.
-:tags: format:epub, format:kobo, esperanto-lingva, nonfiction, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, nonfiction, auth:blackwood, lang:eo
 :slug: blackwood_christmas-in-england
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/christmas-in-england/social.jpg

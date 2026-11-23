@@ -7,7 +7,7 @@ Kapuĉino de Flughaveno
 :category: snap
 :summary: Signo: taso da kapuĉino.
 :description: Ŝildo ĉe la Internacia Flughaveno Louis Armstrong en Nov-Orleano montras kapuĉinon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-06_airport-cappuccino
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-06_airport-cappuccino/social.jpg

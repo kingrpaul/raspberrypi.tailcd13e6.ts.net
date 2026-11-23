@@ -7,7 +7,7 @@ Dagon, Lovecraft (1922)
 :category: book
 :summary: From the deeps, Dagon arose⁠—⁠His folk had gone into darkness⁠—⁠It was he whom the man cast eyes upon⁠—⁠And the man was pursued by madness
 :description: Dual-language translation of Dagon.
-:tags: fiction, auth:lovecraft
+:tags: fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_dagon
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/dagon/social.jpg

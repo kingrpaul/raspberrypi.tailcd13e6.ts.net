@@ -7,7 +7,7 @@ La Malhela Turo 7, La Malhela Turo, King (2004)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: king_the-dark-tower
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/7.0_the-dark-tower/social.jpg

@@ -7,7 +7,7 @@ Started with Duolingo
 :category: musing
 :summary:
 :description:
-:tags: esperanto
+:tags: esperanto, lang:eo
 :slug: 2023-09-25_started-with-duolingo
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/musings/2023-09-25_started-with-duolingo/social-en.jpg

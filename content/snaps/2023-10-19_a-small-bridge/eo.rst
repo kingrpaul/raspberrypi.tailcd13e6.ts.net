@@ -7,7 +7,7 @@ Malgranda Ponto
 :category: snap
 :summary: Estas seke sub la ponto. La ponto ne estas super la rivero. Ne estas super rivereto.
 :description: Malgranda ponto super seka rivereto en malforte arbarkovrita loko.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-19_a-small-bridge
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-19_a-small-bridge/social.jpg

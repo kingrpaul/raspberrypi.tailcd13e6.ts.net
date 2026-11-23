@@ -7,7 +7,7 @@ La Pendanta Fremdulo, PK Dick (1953) (en/eo)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “The Hanging Stranger” de Philip K. Dick (1953).
 :description: Dulingva angla-Esperanta traduko de “The Hanging Stranger” de Philip K. Dick (1953). Kial neniu vidas lin?
-:tags: format:epub, format:kobo, fiction, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: dick_the-hanging-stranger
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/dick-philip/the-hanging-stranger/social.jpg

@@ -7,7 +7,7 @@ Intensa Predikado
 :category: snap
 :summary: Jen murpentraĵo vidita de strato en Nov-Orleano.
 :description: Murpentraĵo montras diversajn bildojn inkluzive de vigla predikado.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-04_intense-preaching
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-04_intense-preaching/social.jpg

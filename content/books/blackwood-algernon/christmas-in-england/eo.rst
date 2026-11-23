@@ -7,7 +7,7 @@ Kristnakso en Anglio, Blackwood (1890)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “Christmas in England” de Algernon Blackwood (1890).
 :description: Dulingva angla-Esperanta traduko de “Christmas in England” de Algernon Blackwood (1890). Priskribas malmodernajn anglajn Kristnaskjn kutimojn.
-:tags: format:epub, format:kobo, nonfiction, auth:blackwood, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, nonfiction, auth:blackwood, lang:eo
 :slug: blackwood_christmas-in-england
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/christmas-in-england/social.jpg

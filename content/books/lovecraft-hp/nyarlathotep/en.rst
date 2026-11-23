@@ -7,7 +7,7 @@ Nyarlathotep, Lovecraft (1920) (en/eo)
 :category: book
 :summary: A dual-language English-Esperanto translation of “Nyarlathotep” by HP Lovecraft (1920).
 :description: A dual-language English-Esperanto translation of “Nyarlathotep” by HP Lovecraft (1920). A showman and the madness of crowds.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_nyarlathotep
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/nyarlathotep/social.jpg

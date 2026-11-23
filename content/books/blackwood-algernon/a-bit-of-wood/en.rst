@@ -7,7 +7,7 @@ A Bit of Wood, Blackwood (1914)
 :category: book
 :summary: A dual-language English-Esperanto translation of “A Bit of Wood” by Algernon Blackwood (1914).
 :description: A dual-language English-Esperanto translation of “A Bit of Wood” by Algernon Blackwood (1914). Trivial things may be important.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_a-bit-of-wood
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/a-bit-of-wood/social.jpg

@@ -7,7 +7,7 @@ La Bräts
 :category: snap
 :summary: La Bratoj, Karnavalo 2026, www.undyah.com
 :description: Muzikistaro ludanta en paradĉaro.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-02-07_the-brats
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_the-brats/social.jpg

@@ -7,7 +7,7 @@ Brown Leaves
 :category: snap
 :summary: The fallen autumn leaves have turned brown.
 :description: Brown fallen leaves visible against rough boards.
-:tags: 
+:tags: lang:eo
 :slug: 2023-10-13_brown-leaves
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-13_brown-leaves/social.jpg

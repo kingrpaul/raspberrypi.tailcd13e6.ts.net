@@ -7,7 +7,7 @@ Man Carrying Snake
 :category: snap
 :summary: Snake Parading Upon Shoulders
 :description: A man walking along a street in a parade, carrying a long white snake across his shoulders. 
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-15_man-carrying-snake
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-15_man-carrying-snake/social.jpg

@@ -7,7 +7,7 @@ Honesto
 :category: writing
 :summary: Kompleta honesto …
 :description: Short creative nonfiction.
-:tags: creative, nonfiction, esperanto-lingva
+:tags: creative, nonfiction, lang:eo
 :slug: 2025-12-31_honesty
 :lang: eo
 

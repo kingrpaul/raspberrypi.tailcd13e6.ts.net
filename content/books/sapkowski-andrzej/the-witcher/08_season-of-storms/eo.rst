@@ -7,7 +7,7 @@ La Wiĉer 8, Sezono de Ŝtormoj, Sapkowski (2013)
 :category: book
 :summary: 
 :description: 📘
-:tags: quote, esperanto-lingva
+:tags: quote, lang:eo
 :slug: sapkowski_season-of-storms
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/08_season-of-storms/social.jpg

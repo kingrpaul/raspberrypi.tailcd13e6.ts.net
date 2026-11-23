@@ -7,7 +7,7 @@ Tubjistoj
 :category: snap
 :summary: Parado de tubjistoj, Karnavalo 2026
 :description: Naŭ tubjistoj marŝas.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-02-07_tuba-players
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_tuba-players/social.jpg

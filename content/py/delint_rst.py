@@ -86,10 +86,10 @@ def main() -> int:
 
     valid_tags = {"blackwood", 
                   "auth:lovecraft","auth:blackwood",
-                  "format:epub", "format:kobo", "format:pdf",
+                  "format:epub", "format:kobo", "format:kindle", "format:pdf",
                 "fiction", "nonfiction", "creative",  
-                "esperanto", "esperanto-lingva", 
-                "group-photo", "portrait", "snap", 
+                "esperanto", "lang:eo", 
+                "group-photo", "portrait",
                 "icon",
                 "illustration", 
                 "medical-physics", "how-to", 
@@ -100,6 +100,18 @@ def main() -> int:
                 }
     used_tags = set()
     no_ext_link = {'goodreads': [], 'hardcover': [], 'bookwyrm': []}
+
+    def get_tags(path):
+        try:
+            tags = field_value(path, 'tags')
+            tags = tags.replace(" ", "").split(",")
+            if len(set(tags)) != len(tags):
+                print(f"Duplicate tags: {path}")
+        except:
+            tags = []
+        return tags
+
+
 
     for path in rst_paths:
         # page = "/pages/" in str(path)
@@ -118,11 +130,13 @@ def main() -> int:
         category = field_value(path, 'category')
         description = field_value(path, 'description')
         working = '/working/' in str(path)
-        try:
-            tags = field_value(path, 'tags')
-            tags = tags.replace(" ", "").split(",")
-        except:
-            tags = []
+        tags = get_tags(path)
+
+        # try:
+        #     tags = field_value(path, 'tags')
+        #     tags = tags.replace(" ", "").split(",")
+        # except:
+        #     tags = []
         rst_text = contents(path)
         
         # header
@@ -139,7 +153,11 @@ def main() -> int:
         try:
             assert lang in ('en', 'eo')
         except:
-            print(f"Bad lang: {path}")
+            print(f"Valid lang not specified: {path}")
+        if (lang == 'eo') and ("lang:eo" not in tags):
+            print(f"lang:eo tag missing: {path}")
+        # if (lang != 'eo') and ("lang:eo" in tags):
+        #     print(f"improper lang:eo tag: {path}")
 
         # social image  --- this code is UGLY
         if visible:
@@ -278,6 +296,31 @@ def main() -> int:
                     return True
                 else:
                     return False
+            # ensure en-eo page pairs share duplicate tags
+            if path.stem == 'eo':
+                en_path = path.parent/'en.rst'
+                if en_path.exists():
+                    en_tags = get_tags(en_path)
+                    if set(tags) != set(en_tags):
+                        if len(set(tags) - set(en_tags)) == 1:
+                            missing_tag = list(set(tags) - set(en_tags))[0]
+                            print(rf"add {missing_tag} to: {en_path}")
+                        else:
+                            print(rf"mismatched translation tags: {path}")
+                            print(rf"  Tags: {tags}")
+                            print(rf"  Path: {path}")
+                            print(rf"  Tags: {en_tags}")
+                            print(rf"  Path: {en_path}")
+
+                            # exit()
+                    # if set(tags) != set(en_tags):
+                        # print(tags)
+                        # print(en_tags)
+                        # print(path)
+                        # print(en_path)
+                        # exit()
+                # print(path.parent/'en.rst')
+            
 
             # Book Reviews
             if category == "book":
@@ -311,8 +354,8 @@ def main() -> int:
                     elif not bookwyrm_link:
                         good_links = False 
             if not good_links:
-                        print(path)
-                        exit()
+                print(path)  # EXPAND THIS!!!
+                exit()
             # print(missing_links)
 
             # Authors
@@ -325,6 +368,8 @@ def main() -> int:
                               ("blackwood.rst", "/icons/icons.rst", "formatting-a-dual-language-glossary")),
                 "kobo": ("format:kobo", 
                               ("/icons/icons.rst")),
+                "azw3": ("format:kindle", 
+                              ("")),
                 "pdf": ("format:pdf", 
                               ("blackwood.rst", "/icons/icons.rst", "quantum-field-theory-as-simply-as-possible", "things-do-indeed-bite-back", "the-shared-philosophy-of-the-scientific-revolution", )),
                 "archive.org": ("pub:internet-archive", 

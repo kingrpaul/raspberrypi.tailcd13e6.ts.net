@@ -7,7 +7,7 @@ Heron in Mississippi
 :category: snap
 :summary: A heron standing in a lake.
 :description: A heron standing in a shallows of a lake.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-24_heron-in-mississippi
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-24_heron-in-mississippi/social.jpg

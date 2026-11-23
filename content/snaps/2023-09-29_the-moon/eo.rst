@@ -7,7 +7,7 @@ La Luno
 :category: snap
 :summary: La Luno brilas en la cielo.
 :description: Plenluno kiel vidata de la tero tra supre pendantaj branĉoj kaj folioj.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-09-29_the-moon
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-09-29_the-moon/social.jpg

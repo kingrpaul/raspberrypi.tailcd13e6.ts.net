@@ -7,7 +7,7 @@ Hills Like White Elephants (1927), Hemingway (eo)
 :category: book
 :summary: An Esperanto translation of “Hills Like White Elephants” by Ernest Hemingway (1927).
 :description: An Esperanto translation of “Hills Like White Elephants” by Ernest Hemingway (1927). A story about America's Lost Generation, set in Europe that, like so many good stories, takes place at a crossroads.
-:tags: format:epub, format:kobo, esperanto-lingva, fiction
+:tags: format:epub, format:kobo, format:kindle, fiction, lang:eo
 :slug: hemingway_hills-like-white-elephants
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/hemingway-ernest/hills-like-white-elephants/social.jpg

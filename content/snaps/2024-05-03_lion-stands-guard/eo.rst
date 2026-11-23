@@ -7,7 +7,7 @@ Leono Staras Garde
 :category: snap
 :summary: Ora leonskulptaĵo sur tegmento superrigardas la Budhistan Centron en Nov-Orleano.
 :description: Ora leonskulptaĵo sur tegmento superrigardas la Budhistan Centron en Nov-Orleano.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-05-03_lion-stands-guard
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-05-03_lion-stands-guard/social.jpg

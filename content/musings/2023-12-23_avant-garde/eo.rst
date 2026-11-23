@@ -7,7 +7,7 @@ Avangarda
 :category: musing
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-12-23_avangarda
 :lang: eo
 

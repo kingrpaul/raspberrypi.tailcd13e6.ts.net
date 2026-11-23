@@ -7,7 +7,7 @@ Witch
 :category: snap
 :summary: Witch flying on her broom, over the lawn, across the street from the cinema.
 :description: Decorative model outside a building shows a flying witch.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-12_witch
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-12_witch/social.jpg

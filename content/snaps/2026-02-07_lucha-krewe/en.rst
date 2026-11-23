@@ -7,7 +7,7 @@ Lucha Krewe
 :category: snap
 :summary: Lucha Krewe, Mardi Gras 2026, www.luchakrewe.com
 :description: Paraders dressed as Mexican lucha libre wrestlers.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-07_lucha-krewe
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_lucha-krewe/social.jpg

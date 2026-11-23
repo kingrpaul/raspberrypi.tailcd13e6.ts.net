@@ -7,7 +7,7 @@ The Lucky Clowns
 :category: snap
 :summary: The Lucky Clowns Parade Float, Mardi Gras 2026
 :description: Clowns in a white bus with balloons.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-07_the-lucky-clowns
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_the-lucky-clowns/social.jpg

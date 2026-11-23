@@ -7,7 +7,7 @@ Vizaĝoj
 :category: snap
 :summary: Murpentraĵo, George E. Ohr, Biloxi, Misisipio de Zach DePolo www.zachdepolo.art, La Freneza Ceramikisto de Biloxi
 :description: Desegnitaj vizaĝoj ĉe Mary Mahoney's.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-02-29_faces
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-29_faces/social.jpg

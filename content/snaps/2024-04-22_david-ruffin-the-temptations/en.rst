@@ -7,7 +7,7 @@ David Ruffin - The Temptations
 :category: snap
 :summary: Mural showing an old musical group, The Temptations.
 :description: A mural says 'Welcome to Meridian, Hometown of David Ruffin - The Temptations' showing these musicians.
-:tags: 
+:tags: lang:eo
 :slug: 2024-04-22_david-ruffin-the-temptations
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-04-22_david-ruffin-the-temptations/social.jpg

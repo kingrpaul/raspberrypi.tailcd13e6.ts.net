@@ -7,7 +7,7 @@ Collected Works of Algernon Blackwood
 :category: book
 :summary: Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction” …
 :description: A collection of short works by Algernon Blackwood. Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose work spans an array of genre, subject, form, and audience.
-:tags: format:epub, format:kobo, fiction, nonfiction, auth:blackwood
+:tags: format:epub, format:kobo, format:kindle, fiction, nonfiction, auth:blackwood
 :slug: blackwood_collected-works-of-algernon-blackwood
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/collected-works-of-algernon-blackwood/social.jpg

@@ -7,7 +7,7 @@ The Witcher 6, The Tower of Swallows, Sapkowski (1997)
 :category: book
 :summary: 
 :description: 📘
-:tags: quote
+:tags: quote, lang:eo
 :slug: sapkowski_the-tower-of-swallows
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/06_the-tower-of-swallows/social.jpg

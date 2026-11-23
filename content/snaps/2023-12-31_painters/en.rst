@@ -7,7 +7,7 @@ Painters
 :category: snap
 :summary: Four painters paint in the park.
 :description: Four painters painting in a public park in New Orleans.
-:tags: 
+:tags: lang:eo
 :slug: 2023-12-31_painters
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-12-31_painters/social.jpg

@@ -7,7 +7,7 @@ The Bearded Squirrel
 :category: snap
 :summary: A squirrel, that seems to have an impressive beard.
 :description: A squirrel faces the camera from a wooden bench while carrying a wad of cotton in its mouth that gives the appearance of an imposing beard.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-25_the-bearded-squirrel
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-25_the-bearded-squirrel/social.jpg

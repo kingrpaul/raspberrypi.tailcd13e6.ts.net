@@ -7,7 +7,7 @@ Redwine Triopo
 :category: snap
 :summary: La Triopo de D-ro Ben Redwine (Ruĝvino) kiu prezentis ĉe Jazz Fest 2022 — www.redwinejazz.com.
 :description: Triopo da vivaj muzikistoj ludas sur la scenejo.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-01-28_redwine-trio
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-28_redwine-trio/social.jpg

@@ -7,7 +7,7 @@ Aŭtuno
 :category: musing
 :summary:
 :description:
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-08_autumn
 :lang: eo
 

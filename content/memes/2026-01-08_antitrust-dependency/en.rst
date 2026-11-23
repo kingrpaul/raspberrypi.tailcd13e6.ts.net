@@ -7,7 +7,7 @@ Dependency
 :category: meme
 :summary: 
 :description: Self-governing democratic republic not controlled by oligarchs (depends on) anti-trust enforcement.
-:tags: 
+:tags: lang:eo
 :slug: 2026-01-08_antitrust-dependency
 :lang: en
 :translation_id: 2026-01-08_antitrust-dependency

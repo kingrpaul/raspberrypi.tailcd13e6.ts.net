@@ -7,7 +7,7 @@ Rough Water
 :category: snap
 :summary: Because of the strong wind, the surface of the lake was rough.
 :description: The rough surface of a lake, trees visible behind.
-:tags: 
+:tags: lang:eo
 :slug: 2024-01-16_rough-water
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-01-16_rough-water/social.jpg

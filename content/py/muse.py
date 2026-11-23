@@ -23,8 +23,10 @@ from xml.sax.saxutils import escape as xml_escape
 # text-eo = 'Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".'
 
 # musing
-title = '''C'''
-text = '''B.'''
+title = '''Wolf Cries Wolf'''
+text = '''Modern pharaohs who for a generation went unchecked as they used power to acquire wealth, wealth to acquire power, now warn of Recursive Self Improvement in technology.'''
+# title = '''It is Said'''
+# text = '''Technological singularity produced by recursive self improvement is an extinction-level event foretold by science. Climate change produced by anthropogenic global warming is a hoax borne of superstition.'''
 
 
 

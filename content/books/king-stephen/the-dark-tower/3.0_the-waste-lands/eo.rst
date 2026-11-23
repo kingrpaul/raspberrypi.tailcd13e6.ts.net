@@ -7,7 +7,7 @@ La Malhela Turo 3, La Dezertaj Teroj, King (1991)
 :category: book
 :summary: 
 :description: 📘
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: king_the-waste-lands
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/king-stephen/the-dark-tower/3.0_the-waste-lands/social.jpg

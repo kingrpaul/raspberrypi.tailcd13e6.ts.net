@@ -7,7 +7,7 @@ Transiro, Blackwood (1913)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “Transition” de Algernon Blackwood  (1913).
 :description: Dulingva angla-Esperanta traduko de “Transition” de Algernon Blackwood  (1913).
-:tags: format:epub, format:kobo, auth:blackwood , esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, auth:blackwood , lang:eo
 :slug: blackwood_transition
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/transition/social.jpg

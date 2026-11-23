@@ -7,7 +7,7 @@ From Beyond, Lovecraft (1921) (eo)
 :category: book
 :summary: An Esperanto translation of “From Beyond” by HP Lovecraft (1921).
 :description: An Esperanto translation of “From Beyond” by HP Lovecraft (1921).
-:tags: format:epub, format:kobo, esperanto-lingva, fiction, auth:lovecraft
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:lovecraft, lang:eo
 :slug: lovecraft_from-beyond
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/lovecraft-hp/from-beyond/social.jpg

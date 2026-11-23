@@ -7,7 +7,7 @@ La Mortodanco, Blackwood (1907)
 :category: book
 :summary: Dulingva angla-Esperanta traduko de “The Dance of Death” de Algernon Blackwood  (1907).
 :description: Dulingva angla-Esperanta traduko de “The Dance of Death” de Algernon Blackwood  (1907). Renkonti antropomorfa personigo.
-:tags: format:epub, format:kobo, fiction, auth:blackwood, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, fiction, auth:blackwood, lang:eo
 :slug: blackwood_the-dance-of-death
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/blackwood-algernon/the-dance-of-death/social.jpg

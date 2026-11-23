@@ -7,7 +7,7 @@ The Witcher 3, Blood of Elves, Sapkowski (1994)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: sapkowski_blood-of-elves
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/03_blood-of-elves/social.jpg

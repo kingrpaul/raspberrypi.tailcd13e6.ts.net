@@ -7,7 +7,7 @@ Plorturto
 :category: snap
 :summary: Plorturto (Zenaida macroura).
 :description: Plorturto sur tegmenta defluilo
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2024-02-19_mourning-dove
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2024-02-19_mourning-dove/social.jpg

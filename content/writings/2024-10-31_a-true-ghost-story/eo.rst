@@ -7,7 +7,7 @@ Vera Fantoma Rakonto
 :category: writing
 :summary: 
 :description: Mallonga krea nefikcio.
-:tags: creative, nonfiction, esperanto-lingva
+:tags: creative, nonfiction, lang:eo
 :slug: 2024-10-31_a-true-ghost-story
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2024-10-31_a-true-ghost-story/social.jpg

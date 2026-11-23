@@ -7,7 +7,7 @@ The Witcher 5, Baptism of Fire, Sapkowski (1996)
 :category: book
 :summary: 
 :description: 📘
-:tags: 
+:tags: lang:eo
 :slug: sapkowski_baptism-of-fire
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/sapkowski-andrzej/the-witcher/05_baptism-of-fire/social.jpg

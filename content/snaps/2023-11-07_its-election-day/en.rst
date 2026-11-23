@@ -7,7 +7,7 @@ It's Election Day
 :category: snap
 :summary: I voted! Did you?
 :description: A sticker says "I Voted! Did You?" with the 'V' stylized as a check-mark.
-:tags: 
+:tags: lang:eo
 :slug: 2023-11-07_its-election-day
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-07_its-election-day/social.jpg

@@ -8,7 +8,7 @@ In the Pines (en/eo)
 :summary: American folk song, sung by Leadbelly and Kurt Cobain.
 :description: American folk song, sung by Leadbelly and Kurt Cobain.
 :summary: Usona popolkanto, kantita de Leadbelly (Plumboventro) kaj Kurt Cobain.
-:tags: format:epub, format:kobo, esperanto-lingva
+:tags: format:epub, format:kobo, format:kindle, lang:eo
 :slug: anonymous_in-the-pines
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/books/anonymous/in-the-pines/social.jpg

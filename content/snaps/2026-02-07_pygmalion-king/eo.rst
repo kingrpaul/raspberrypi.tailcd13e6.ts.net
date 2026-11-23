@@ -7,7 +7,7 @@ Reĝo de Pygmalion
 :category: snap
 :summary: Paradĉaro de la Reĝo de Pygmalion, Karnavalo 2026
 :description: Paradĉaro, grandega brako etendiĝas super viro, kiu portas kronon.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2026-02-07_pygmalion-king
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_pygmalion-king/social.jpg

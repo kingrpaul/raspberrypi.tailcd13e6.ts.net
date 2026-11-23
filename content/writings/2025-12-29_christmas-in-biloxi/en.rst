@@ -7,7 +7,7 @@ Christmas in Biloxi
 :category: writing
 :summary: 
 :description: Short creative nonfiction.
-:tags: creative, nonfiction
+:tags: creative, nonfiction, lang:eo
 :slug: 2025-12-29_christmas-in-biloxi
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/writings/2025-12-29_christmas-in-biloxi/social.jpg

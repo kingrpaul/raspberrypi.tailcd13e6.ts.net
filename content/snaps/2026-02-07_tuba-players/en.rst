@@ -7,7 +7,7 @@ Tuba Players
 :category: snap
 :summary: Parade of tuba players, Mardi Gras 2026
 :description: Nine tuba players march.
-:tags: 
+:tags: lang:eo
 :slug: 2026-02-07_tuba-players
 :lang: en
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2026-02-07_tuba-players/social.jpg

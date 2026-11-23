@@ -7,7 +7,7 @@ Piedponto
 :category: snap
 :summary: Laŭ vojo tra arbaro en la parko, oni alvenas al piedponto.
 :description: Vidaĵo de piedponto en arbarkovrita parko. La apogiloj estas malglataj kaj estas lampostoj dekstre.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-11-06_footbridge
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-11-06_footbridge/social.jpg

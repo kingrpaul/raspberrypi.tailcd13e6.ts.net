@@ -7,7 +7,7 @@ La Ripozo de la Kato
 :category: snap
 :summary: Birdoj kantas proksime dum pigra kato ripozas sur sia leterkesto.
 :description: Oranĝa kato kuŝas trans la supro de leterkesto.
-:tags: esperanto-lingva
+:tags: lang:eo
 :slug: 2023-10-06_the-cat-s-repose
 :lang: eo
 :og_image: https://raspberrypi.tailcd13e6.ts.net/snaps/2023-10-06_the-cat-s-repose/social.jpg
