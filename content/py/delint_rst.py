@@ -9,6 +9,11 @@ import re
 from datetime import date
 from pprint import pprint
 
+# short version of a file Path
+succinct = lambda loc: str(loc).split('/books/')[-1]
+
+host = r"https://raspberrypi.tailcd13e6.ts.net"
+
 def find_rst_files(start_dir: str) -> list[Path]:
     root = Path(start_dir).resolve()
     if not root.is_dir():
@@ -23,39 +28,18 @@ def is_good_date(d: str) -> bool:
     except:
         return False
 
-def fld_exists(rst_file: Path, fld_name: str) -> bool:
-    """Metadata item present."""
-    rst_text = rst_file.read_text(encoding="utf-8")
-    if rf":{fld_name}:" in rst_text:
-        return True
-    return False
-
-def val_exists(rst_file: Path, fld_name: str) -> bool:
-    """Metadata item not empty."""
-    if fld_exists(rst_file, fld_name):
-        rst_text = rst_file.read_text(encoding="utf-8")
-        pattern = rf":{re.escape(fld_name)}:\s([^\n]+)\n"
-        matching_text = re.search(pattern, rst_text)
-        try:
-            assert matching_text.group(1)
-            return True
-        except:
-            return False
-
-def field_value(rst_file: Path, fld_name: str) -> str | None:
-    """Get field vlue from rst file."""
-    if val_exists(rst_file, fld_name):
-        rst_text = rst_file.read_text(encoding="utf-8")
-        pattern = rf":{re.escape(fld_name)}:\s*\n?"
-        matching_text = re.search(pattern + r"([^\n]*)", rst_text)
-        fld_val = matching_text.group(1).strip()
-        return fld_val         
-    return False
-
-def contents(rst_file: Path) -> str | None:
-    rst_text = rst_file.read_text(encoding="utf-8")
-    return rst_text
-    
+def get_field_value(rst_text: Path, fld_name: str) -> str | None:
+    """Get field value from rst file."""
+    # rst_text = rst_file.read_text(encoding="utf-8")
+    key_pattern = rf":{re.escape(fld_name)}:\s"
+    key_exists = re.search(key_pattern, rst_text)
+    if not key_exists:
+        return False
+    val_pattern = key_pattern + r"([^\n]*)"
+    val = re.search(val_pattern, rst_text).group(1).strip()
+    if not val:
+        return False
+    return val
 
 # =======================
 
@@ -71,14 +55,6 @@ def main() -> int:
         return 1
 
 #   ==========================
-    def good_header(path: Path) -> bool:
-        """Has RST-style header."""
-        lines = path.read_text(encoding="utf-8").splitlines()
-        try: 
-            assert lines[0] == lines[2] == "="*len(lines[1])
-            return True
-        except: 
-            return False
 
     categories = ('page', 'book', 'snap', 'writing', 'post', 'picture', 
                   'musing', 'meme', 'document', 'comic', 'film',
@@ -103,151 +79,118 @@ def main() -> int:
 
     def get_tags(path):
         try:
-            tags = field_value(path, 'tags')
+            tags = get_field_value(rst_text, 'tags')
             tags = tags.replace(" ", "").split(",")
             if len(set(tags)) != len(tags):
-                print(f"Duplicate tags: {path}")
+                print(f"Duplicate tags: {succinct(path)}")
         except:
             tags = []
         return tags
 
-
-
+    # for path in rst_paths[179:180]:
     for path in rst_paths:
-        # page = "/pages/" in str(path)
-        # article = not page
-
-        visible = (not field_value(path, 'status') or field_value(path, 'status') != 'hidden') and '/working/' not in str(path)
-        
+        rst_text = path.read_text(encoding="utf-8")
+        status_not_set = not get_field_value(rst_text, 'status')
+        status_hidden = get_field_value(rst_text, 'status') == 'hidden'
+        status_working = '/working/' in str(path)
+        visible = ((status_not_set) or (not status_hidden)) and (not status_working)
         is_page = "/pages/" in str(path)
         is_article = not is_page
-        slug = field_value(path, 'slug')
-        author = field_value(path, 'author')
-        lang = field_value(path, 'lang')
+        slug = get_field_value(rst_text, 'slug')
+        author = get_field_value(rst_text, 'author')
+        lang = get_field_value(rst_text, 'lang')
         rst_name = path.stem
-        created = field_value(path, 'date')
-        modified = field_value(path, 'modified')
-        category = field_value(path, 'category')
-        description = field_value(path, 'description')
+        created = get_field_value(rst_text, 'date')
+        modified = get_field_value(rst_text, 'modified')
+        category = get_field_value(rst_text, 'category')
+        description = get_field_value(rst_text, 'description')
         working = '/working/' in str(path)
         tags = get_tags(path)
-
-        # try:
-        #     tags = field_value(path, 'tags')
-        #     tags = tags.replace(" ", "").split(",")
-        # except:
-        #     tags = []
-        rst_text = contents(path)
         
         # header
-        if not good_header(path):
-            print(f"Bad header: {path}")
+        lines = rst_text.splitlines()
+        valid_header = lines[0] == lines[2] == "="*len(lines[1])
+        if not valid_header:
+            print(f"Bad header: {succinct(path)}")
 
         # author 
-        try: 
-            assert author == "pairko"
-        except:
-            print(f"Bad author: {path}")
+        if author != "pairko":
+            print(f"Bad author: {succinct(path)}")
 
         # lang
         try:
             assert lang in ('en', 'eo')
         except:
-            print(f"Valid lang not specified: {path}")
+            print(f"Valid lang not specified: {succinct(path)}")
         if (lang == 'eo') and ("lang:eo" not in tags):
-            print(f"lang:eo tag missing: {path}")
-        # if (lang != 'eo') and ("lang:eo" in tags):
-        #     print(f"improper lang:eo tag: {path}")
+            print(f"lang:eo tag missing: {succinct(path)}")
 
-        # social image  --- this code is UGLY
+        # social image
         if visible:
             if is_article:
-                malformed = False
-
-                og_image = field_value(path, 'og_image')
-                if not og_image:
-                    malformed = path
-                host = r"https://raspberrypi.tailcd13e6.ts.net"
-
-                if not og_image.startswith(host):
-                    malformed = path
-                else:
-                    rel_path = Path(og_image[len(host):])
-
-                stem = str(rel_path.stem)
-                if stem not in ("social", "social-en", "social-eo"):
-                    malformed = path
-
-                ext = str(rel_path.suffix)
-                if ext not in (".jpg", ".png"):
-                    malformed = path
-
-                rel_path = rel_path.parent
-                expected_rel_path = Path("/".join(str(path).split("/content")[-1].split("/")[:-1]))
-                if rel_path != expected_rel_path:
-                    malformed = path
-
-                if malformed:
-                    print(f"Bad og_image: {path}")
-                    # exit()
+                try:
+                    og_image = get_field_value(rst_text, 'og_image')
+                    pattern = rf"{host}.+(social|social-en|social-eo)\.(jpg|png)"
+                    assert re.fullmatch(pattern, og_image)
+                except:
+                    print(f"Bad og_image: {succinct(path)}")
 
         # translation
         if rst_name in ("en", "eo"):
             try:
                 assert rst_name == lang
             except:
-                print(f"Filename lang mismatch: {path}")
-                exit()
+                print(f"Filename lang mismatch: {succinct(path)}")
+                # exit()
 
         # date
         try:
             assert is_good_date(created)
             assert is_good_date(modified)
         except:
-            print(f"Bad date: {path}")
+            print(f"Bad date: {succinct(path)}")
 
         try:
             created = date.fromisoformat(created)
             modified = date.fromisoformat(modified)
         except:
-            print(f"Bad date format: {path}")
+            print(f"Bad date format: {succinct(path)}")
         try:
             assert modified >= created
         except:
-            print(f"Modified before created: {path}")
+            print(f"Modified before created: {succinct(path)}")
 
     # slug
         if '/working/' not in str(path):
-            malformed_slug = False
+            bad_slug = False
             if is_page:
                 if not re.fullmatch(r"[a-z0-9-]+", slug):
-                    malformed_slug = path
+                    bad_slug = path
             else:
-                
                 match category:
                     case "comic":
                         if not re.fullmatch(r"[a-z0-9-]+", slug):
-                            malformed_slug = path
+                            bad_slug = path
                     case "book":
                         if not re.fullmatch(r"[a-z-]+_[a-z0-9-]+", slug):
-                            malformed_slug = path                        
+                            bad_slug = path                        
                     case "snap":
                         if not re.fullmatch(r"\d\d\d\d-\d\d-\d\d_[a-z0-9-]+", slug):
-                            malformed_slug = path                        
+                            bad_slug = path                        
                     case "film" | "picture":
                         if not re.fullmatch(r"\d\d\d\d_[a-z0-9-]+", slug):
-                            malformed_slug = path                        
+                            bad_slug = path                        
                     case "writing" | "post" | "musing" | "meme":                    
                         if slug != "blackwood" and not re.fullmatch(r"\d\d\d\d-\d\d-\d\d_[a-z0-9-]+", slug):
-                            malformed_slug = path                        
+                            bad_slug = path                        
                     case "document":
                         if not re.fullmatch(r"\d\d\d\d(-\d\d-\d\d)?_[a-z0-9-]+", slug):
-                            malformed_slug = path                        
+                            bad_slug = path                        
                     case "illustrations":
                         if not re.fullmatch(r"[a-z0-9-]+", slug):
-                            malformed_slug = path                        
-        if malformed_slug:
-            print(f"Malformed slug: {malformed_slug}")
+                            bad_slug = path                        
+        if bad_slug:
+            print(f"Malformed slug: {bad_slug}")
         
     # category
         if is_page:
@@ -256,30 +199,27 @@ def main() -> int:
             try:
                 assert category in categories
             except:
-                print(f"Bad category: {path}")
+                print(f"Bad category: {succinct(path)}")
 
     # description
-        if '/working/' not in str(path):
+        if '/working/' not in str(succinct(path)):
             if is_article:
                 try:
                     assert len(description) > 1
                 except:
                     pass
-                    # print(f"No description: {path}")
 
     # tags
         if is_page:
             pass
         if is_article:
-            try:
-                for tag in tags:
-                    used_tags.add(tag)
-                    if tag not in valid_tags:
-                        print(f"Bad tag: {tag}, {path}")
-            except:
-                print(f"Bad tag: {path}")
+            # Look for invalid tags
+            for tag in tags:
+                used_tags.add(tag)
+                if tag not in valid_tags:
+                    print(f"Bad tag: {tag}, {succinct(path)}")
                 
-            # Look for missed tags
+            # Look for missing tags
             def is_exception(path, exceptions):
                 if any([e in str(path) for e in exceptions]):
                     return True
@@ -296,35 +236,26 @@ def main() -> int:
                     return True
                 else:
                     return False
-            # ensure en-eo page pairs share duplicate tags
-            if path.stem == 'eo':
+            # look for inconsistent en-eo tags -- pelican requires they be the same
+            if rst_name == 'eo':
                 en_path = path.parent/'en.rst'
                 if en_path.exists():
                     en_tags = get_tags(en_path)
                     if set(tags) != set(en_tags):
                         if len(set(tags) - set(en_tags)) == 1:
                             missing_tag = list(set(tags) - set(en_tags))[0]
-                            print(rf"add {missing_tag} to: {en_path}")
+                            if missing_tag in valid_tags:
+                                print(rf"add {missing_tag} to: {en_path}")
                         else:
-                            print(rf"mismatched translation tags: {path}")
-                            print(rf"  Tags: {tags}")
-                            print(rf"  Path: {path}")
-                            print(rf"  Tags: {en_tags}")
-                            print(rf"  Path: {en_path}")
+                            print(rf"mismatched translation tags: {succinct(path)}")
+                            print(rf" Tags: {tags}")
+                            print(rf"   Path: {succinct(path)}")
+                            print(rf" Tags: {en_tags}")
+                            print(rf"   Path: {en_path}")
 
-                            # exit()
-                    # if set(tags) != set(en_tags):
-                        # print(tags)
-                        # print(en_tags)
-                        # print(path)
-                        # print(en_path)
-                        # exit()
-                # print(path.parent/'en.rst')
-            
-
-            # Book Reviews
+            # Book Reviews - validate platform links
+            good_links = True 
             if category == "book":
-                good_links = True 
                 if "review" in tags:
 
                     # GOODREADS 
@@ -354,9 +285,7 @@ def main() -> int:
                     elif not bookwyrm_link:
                         good_links = False 
             if not good_links:
-                print(path)  # EXPAND THIS!!!
-                exit()
-            # print(missing_links)
+                print(rf"platform links not correct: {succinct(path)}")
 
             # Authors
             tag_words = {
@@ -383,27 +312,21 @@ def main() -> int:
                     if not in_tags(tag_words[word][0], tags): 
                         if not is_exception(path, tag_words[word][1]):
                             if not working:
-                                print(f"Add {tag_words[word][0]} tag?: {path}")
-
-        # ---------
-
-        # missing meta items
-        # field_names = ('summary')
-        # for name in field_names:
-        #     if not fld_exists(path, name):
-        #         print(f"No {name}: {path}")
-
-    # RETURNS THE LINTING RESULTS 
+                                print(f"Add {tag_words[word][0]} tag?: {succinct(path)}")
 
     # Unused valid post tags
-    if len(valid_tags - used_tags) != 0:
-        print(rf"Unused tags: {[u for u in (valid_tags - used_tags) ]}")
+    REPORT_UNUSED_TAGS = True
+    if REPORT_UNUSED_TAGS:
+        if len(valid_tags - used_tags) != 0:
+            print(rf"Unused tags: {[u for u in (valid_tags - used_tags) ]}")
     
     # Book Reviews Not Posted to Platforms
-    if False: # COUNT REVIEWS NOT POSTED ON PLATFORMS
-        print(rf"Book reviews not posted ⸺ Goodreads {len(no_ext_link["goodreads"])}, Hardcover {len(no_ext_link["hardcover"])}, Bookwyrm {len(no_ext_link["bookwyrm"])}")
-    if False: # LIST REVIEWS NOT POSTED ON PLATFORMS
-        succinct = lambda loc: str(loc).split('/books/')[-1]
+    COUNT_REVIEWS_NOT_POSTED_ON_PLATFORMS = False
+    if COUNT_REVIEWS_NOT_POSTED_ON_PLATFORMS:
+        print(rf"Book reviews not posted ⸺  Goodreads {len(no_ext_link["goodreads"])}, Hardcover {len(no_ext_link["hardcover"])}, Bookwyrm {len(no_ext_link["bookwyrm"])}")
+    LIST_REVIEWS_NOT_POSTED_ON_PLATFORMS = False
+    if LIST_REVIEWS_NOT_POSTED_ON_PLATFORMS: # LIST REVIEWS NOT POSTED ON PLATFORMS
+        
         print("Reviews not posted externally:")
         for n in no_ext_link:
             print(n.capitalize())

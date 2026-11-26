@@ -23,11 +23,9 @@ from xml.sax.saxutils import escape as xml_escape
 # text-eo = 'Cikorikafo nigra kiel la koro de perfidulo, kiu restas senŝanĝe dum kremo enverŝiĝas, nur flustrante "Pli".'
 
 # musing
-title = '''Wolf Cries Wolf'''
-text = '''Modern pharaohs who for a generation went unchecked as they used power to acquire wealth, wealth to acquire power, now warn of Recursive Self Improvement in technology.'''
-# title = '''It is Said'''
-# text = '''Technological singularity produced by recursive self improvement is an extinction-level event foretold by science. Climate change produced by anthropogenic global warming is a hoax borne of superstition.'''
-
+# Give a man a fish and he will eat for a day but pay a man per-click to make fishing videos and he will grind up his own sanity to chum the waters. 
+title = '''Eldritch'''
+text = '''After a short time living in New York, seat of American finance, Lovecraft had fled back in horror to New England, to his canon of monstrous gods and god-like monsters dwelling in the realm beyond, who give no consideration to humanity, except perhaps as slaves or as food.'''
 
 
 # --- card geometry ---
