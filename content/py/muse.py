@@ -24,8 +24,13 @@ from xml.sax.saxutils import escape as xml_escape
 
 # musing
 # Give a man a fish and he will eat for a day but pay a man per-click to make fishing videos and he will grind up his own sanity to chum the waters. 
-title = '''Eldritch'''
-text = '''After a short time living in New York, seat of American finance, Lovecraft had fled back in horror to New England, to his canon of monstrous gods and god-like monsters dwelling in the realm beyond, who give no consideration to humanity, except perhaps as slaves or as food.'''
+
+title = '''Gravity'''
+text = '''A frown, turned upside down, is a smile; a medal, turned upside down, is a noose.'''
+
+# title = '''Eldritch'''
+# text = '''After a short time living in New York, seat of American finance, Lovecraft had fled back in horror to New England, to his canon of monstrous gods and god-like monsters dwelling in the realm beyond, who give no consideration to humanity, except perhaps as slaves or as food.'''
+
 
 
 # --- card geometry ---
